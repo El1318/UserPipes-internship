@@ -1,0 +1,295 @@
+code,title
+1,male
+2,female
+3,unknown gender
+4,starting
+5,junior
+6,senior
+7,highly senior
+8,confirmed
+9,active
+10,very active
+11,productive
+12,very productive
+13,prolific
+14,very few
+15,few
+16,fair
+17,high
+18,very high
+101,North America
+102,UK/Ireland
+103,Europe
+122,Asia
+107,Australia
+110,South America
+123,Middle East
+124,other country
+20000,distributed
+20001,storage
+20002,performance
+20003,health
+20004,privacy
+20005,transaction
+20006,middleware
+20007,indexing
+20008,preference
+20009,rdf
+20010,benchmarking
+20011,dynamic data
+20012,workflow
+20013,knowledge graph
+20014,search
+20015,ranking
+20016,enrichment
+20017,integration
+20018,rewriting
+20019,clustering
+20020,evaluation
+20021,summarization
+20022,information retrieval
+20023,mining
+20024,filtering
+20025,visualization
+20026,profiling
+20027,topic model
+20028,simulation
+20029,classification
+20030,keyword search
+20031,diversity
+20032,optimization
+20033,compression
+20034,machine learning
+20035,auction
+20036,wearable
+20037,microblog
+20038,performance evaluation
+20039,video search
+20040,sensors
+20041,real-time
+20042,p2p
+20043,communication
+20044,dissemination
+20045,query processing
+20046,multimedia
+20047,cloud computing
+20048,data replication
+20049,mobility
+20050,recommendation
+20051,recovery
+20052,security
+20053,data management
+20054,content analysis
+20055,subjectivity
+20056,forum
+20057,deep neural networks
+20058,rank aggregation
+20059,crowdsourcing
+20060,peer-to-peer
+20061,exploratory search
+20062,web science
+20063,graph stream
+20064,information extraction
+20065,query suggestion
+20066,spam
+20067,relevance ranking
+20068,infrastructure
+20069,graphics
+20070,user model
+20071,personalization
+20072,acquisition
+20073,forecasting
+20074,scalability
+20075,nosql
+20076,explanations
+20077,virtual machine
+20078,graph model
+20079,relevance feedback
+20080,semantic search
+20081,information diffusion
+20082,consistency
+20083,language model
+20084,local search
+20085,outlier
+20086,caching
+20087,intelligent assistant
+20088,data mining
+20089,question answering
+20090,natural language processing
+20091,energy management
+20092,integrity
+20093,user interface
+20094,access control
+20095,authentication
+20096,hardware
+20097,countermeasures
+20098,cleaning
+20099,provenance
+20100,internet-of-things
+20101,access pattern
+20102,cryptography
+20103,collaborative search
+20104,search interface
+20105,centrality
+20106,location-aware
+20107,sentiment analysis
+20108,biomedical
+20109,interoperability
+20110,personalisation
+20111,usability
+20112,realtime
+20113,distributed computing
+20114,distributed database
+20115,event processing
+20116,parallel database
+20117,query reformulation
+20118,power management
+20119,opinion mining
+20120,cognitive computing
+20121,behavioral analysis
+20122,mobile computing
+20123,advertising
+20124,link prediction
+20125,collective intelligence
+20126,computational approach
+20127,user engagement
+20128,event extraction
+20129,interactive search
+20130,etl
+20131,text analysis
+20132,event detection
+20133,evaluation metrics
+20134,theoretical analysis
+20135,sponsored search
+20136,log analysis
+20137,fault tolerance
+20138,wikidata
+20139,query languages
+20140,efficiency
+20141,online market
+20142,web crawling
+20143,data representation
+20144,gamification
+20145,social network analysis
+20146,click model
+20147,journalism
+20148,document representation
+20149,query understanding
+20150,opinion formation
+20151,information interaction
+20152,information access
+20153,social search
+20154,user study
+20155,human computation
+20156,olap
+20157,genomics
+20158,fairness
+20159,user feedback
+20160,search application
+20161,user-generated content
+20162,query intent
+20163,multimodal data
+20164,entity retrieval
+20165,conversational search
+20166,filtering systems
+20167,search advertising
+20168,epidemiology
+20169,normalization
+20170,database tuning
+20171,psychology
+20172,event tracking
+20173,probabilistic database
+20174,economics
+20175,transaction processing
+20176,metasearch
+20177,health informatics
+20178,network inference
+20179,social tagging
+20180,access method
+20181,quality assurance
+20182,federated search
+20183,cloud data management
+20184,concurrency control
+20185,scalable analytics
+20186,social recommender
+20187,social science
+20188,query segmentation
+20189,graph partitioning
+20190,community discovery
+20191,social good
+20192,content delivery
+20193,disinformation
+20194,governance
+20195,data acquisition
+20196,allocation algorithm
+20197,electronic commerce
+20198,user studies
+20199,wellbeing
+20200,human-computer interaction
+20201,search context
+20202,vertical search
+20203,policy decision
+20204,information acquisition
+20205,link analysis
+20206,zero-query
+20207,urban system
+20208,topic discovery
+20209,sociology
+20210,uncertain database
+20211,user behaviour
+20212,interaction model
+20213,disease detection
+20214,emerging hardware
+20215,wireless system
+20216,alignment algorithm
+20217,authenticity
+20218,intent prediction
+20219,graph data management
+20220,semantic processing
+20221,crime
+20222,censorship
+20223,trust management
+20224,temporal evolution
+20225,image processing
+20226,graph theory
+20227,data provenance
+20228,influence propagation
+20229,meta-search
+20230,risk model
+20231,query completion
+20232,real-time search
+20233,data semantic
+20234,scientific database
+20235,multimedia processing
+20236,prediction market
+20237,affective computing
+20238,attention modeling
+20239,linguistic analysis
+20240,snippet generation
+20241,graph reconstruction
+20242,monetization
+20243,conversational system
+20244,interactive data analysis
+20245,ubiquitous computing
+20246,query representation
+20247,cross-lingual analysis
+20248,search verticals
+20249,data intensive computing
+20250,workflow optimization
+20251,data preprocessing
+20252,pervasive web
+20253,deductive database
+20254,fuzzy database
+20255,database administration
+20256,online testing
+20257,query analysis
+20258,social annotations
+20259,music search
+20260,search assistance
+20261,political science
+20262,speech search
+20263,query prediction
+20264,spoken query
+20265,natural language analysis
+20266,human-machine systems
+20267,warehousing.

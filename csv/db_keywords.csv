@@ -1,0 +1,294 @@
+10000,health
+10001,crowdsourcing
+10002,monetization
+10003,monetisation
+10004,online market
+10005,search
+10006,security
+10007,social network analysis
+10008,social science
+10009,infrastructure
+10010,ubiquitous computing
+10011,mobile computing
+10012,user model
+10013,personalisation
+10014,personalization
+10015,mining
+10016,content analysis
+10017,disease detection
+10018,disease tracking
+10019,epidemiology
+10020,policy decision
+10021,risk model
+10022,forecasting
+10023,sensors
+10024,affective computing
+10025,behavioural monitoring
+10026,collective intelligence
+10027,human computation
+10028,human-machine systems
+10029,workflow optimization
+10030,user-generated content
+10031,quality assurance
+10032,opinion formation
+10033,prediction market
+10034,real-time
+10035,realtime
+10036,advertising
+10037,auction
+10038,economics
+10039,cloud computing
+10040,gamification
+10041,mobility
+10042,web science
+10043,spam
+10044,link farm
+10045,evaluation methodologies
+10046,evaluation metrics
+10047,click analysis
+10048,social annotations
+10049,interactive search
+10050,query suggestion
+10051,query completion
+10052,search assistance
+10053,collaborative search
+10054,real-time search
+10055,ranking
+10056,query analysis
+10057,query segmentation
+10058,intent prediction
+10059,enrichment
+10060,rewriting
+10061,query processing
+10062,caching
+10063,efficiency
+10064,relevance ranking
+10065,relevance feedback
+10066,rank aggregation
+10067,diversity
+10068,search verticals
+10069,scalability
+10070,compression
+10071,federated search
+10072,fault tolerance
+10073,approximation heuristic
+10074,snippet generation
+10075,semantic search
+10076,entity retrieval
+10077,user studies
+10078,user study
+10079,specialized search
+10080,language model
+10081,meta-search
+10082,web crawling
+10083,privacy
+10084,crime
+10085,underground economics
+10086,profiling
+10087,countermeasures
+10088,censorship
+10089,authentication
+10090,web protocol
+10091,cryptography
+10092,electronic commerce
+10093,intelligent assistant
+10094,wikidata
+10095,data representation
+10096,graph model
+10097,multimodal data
+10098,subjectivity
+10099,cognitive computing
+10100,fairness
+10101,graph reconstruction
+10102,network inference
+10103,graph stream
+10104,centrality
+10105,graph partitioning
+10106,community discovery
+10107,ethical issues
+10108,influence propagation
+10109,information diffusion
+10110,link prediction
+10111,location-aware
+10112,social reputation
+10113,trust management
+10114,temporal evolution
+10115,theoretical analysis
+10116,wellbeing
+10117,wearable
+10118,sensory computing
+10119,wireless system
+10120,internet-of-things
+10121,pervasive web
+10122,energy management
+10123,power management
+10124,log analysis
+10125,interaction model
+10126,conversational system
+10127,Intelligent agent
+10128,online testing
+10129,user feedback
+10130,user behaviour
+10131,recommendation
+10132,visualization
+10133,text analysis
+10134,sentiment analysis
+10135,opinion mining
+10136,cross-lingual analysis
+10137,information extraction
+10138,question answering
+10139,summarization
+10140,integration
+10141,event detection
+10142,topic discovery
+10143,user interface
+10144,normalization
+10145,event extraction
+10146,detecting deception
+10147,disinformation
+10148,natural language analysis
+10149,governance
+10150,access method
+10151,concurrency control
+10152,recovery
+10153,transaction
+10154,indexing
+10155,data management
+10156,hardware
+10157,warehousing.
+10158,usability
+10159,benchmarking
+10160,performance
+10161,database administration
+10162,manageability
+10163,cloud data management
+10164,nosql
+10165,scalable analytics
+10166,consistency
+10167,p2p
+10168,content delivery
+10169,provenance
+10170,multimedia
+10171,cleaning
+10172,filtering
+10173,fuzzy database
+10174,information retrieval
+10175,performance evaluation
+10176,data semantic
+10177,query languages
+10178,olap
+10179,database monitoring
+10180,database tuning
+10181,access control
+10182,emerging hardware
+10183,distributed database
+10184,parallel database
+10185,graph data management
+10186,rdf
+10187,clustering
+10188,data mining
+10189,optimization
+10190,scientific database
+10191,dpatio-temporal database
+10192,dtorage
+10193,event processing
+10194,transaction processing
+10195,uncertain database
+10196,probabilistic database
+10197,approximate database
+10198,computational approach
+10199,natural language processing
+10200,machine learning
+10201,image processing
+10202,multimedia processing
+10203,graphics
+10204,distributed computing
+10205,graph theory
+10206,network Science
+10207,human-computer interaction
+10208,psychology
+10209,sociology
+10210,communication
+10211,political science
+10212,anthropology
+10213,journalism
+10214,interoperability
+10215,interactive data analysis
+10216,distributed
+10217,keyword search
+10218,query intent
+10219,query understanding
+10220,query prediction
+10221,query representation
+10222,query reformulation
+10223,spoken query
+10224,link analysis
+10225,sponsored search
+10226,search advertising
+10227,adversarial search
+10228,vertical search
+10229,local search
+10230,knowledge graph
+10231,click model
+10232,behavioral analysis
+10233,simulation
+10234,information interaction
+10235,attention modeling
+10236,search interface
+10237,information access
+10238,exploratory search
+10239,search context
+10240,conversational search
+10241,social search
+10242,social tagging
+10243,microblog
+10244,forum
+10245,zero-query
+10246,evaluation
+10247,user engagement
+10248,document representation
+10249,linguistic analysis
+10250,search application
+10251,classification
+10252,topic model
+10253,metasearch
+10254,peer-to-peer
+10255,video search
+10256,speech search
+10257,audio search
+10258,music search
+10259,genomics
+10260,social good
+10261,data acquisition
+10262,information acquisition
+10263,data preprocessing
+10264,data crawling
+10265,semantic processing
+10266,data provenance
+10267,data intensive computing
+10268,event tracking
+10269,deep neural networks
+10270,filtering systems
+10271,urban system
+10272,biomedical
+10273,health informatics
+10274,acquisition
+10275,authenticity
+10276,integrity
+10277,database federation
+10278,deductive database
+10279,explanations
+10280,preference
+10281,social recommender
+10282,etl
+10283,middleware
+10284,workflow
+10285,alignment algorithm
+10286,allocation algorithm
+10287,dynamic data
+10288,access pattern
+10289,data replication
+10290,storage
+10291,dissemination
+10292,virtual machine
+10293,outlier
