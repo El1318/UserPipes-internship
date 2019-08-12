@@ -1,0 +1,5132 @@
+code,title
+30000,PVLDB
+30001,Concurrency and Computation: Practice and Experience
+30002,IEEE Internet Computing
+30003,AMIA
+30004,ICDCS
+30005,IJCAI
+30006,SecureComm (1)
+30007,CoRR
+30008,IEEE Trans. Computers
+30009,HotWeb
+30010,ICDE
+30011,IBM Journal of Research and Development
+30012,CLOUD
+30013,ICWS
+30014,IEEE Trans. Dependable Sec. Comput.
+30015,CCGRID
+30016,Commun. ACM
+30017,ACM Queue
+30018,SoCC
+30019,EKAW
+30020,International Semantic Web Conference (P&D/Industry/BlueSky)
+30021,International Semantic Web Conference (Posters & Demos)
+30022,AI Magazine
+30023,AAAI
+30024,International Semantic Web Conference (1)
+30025,Artif. Intell.
+30026,J. Artif. Intell. Res.
+30027,Semantic Web
+30028,IEEE Trans. Knowl. Data Eng.
+30029,BigData
+30030,Description Logics
+30031,ESWC
+30032,ILP
+30033,JIST
+30034,KR
+30035,SIMBig
+30036,Universal Access in the Information Society
+30037,CIKM
+30038,GRADES@SIGMOD/PODS
+30039,International Semantic Web Conference (Posters Demos & Industry Tracks)
+30040,International Semantic Web Conference (2)
+30041,Lecture Notes in Computer Science
+30042,DEBS
+30043,LABELS/DLMIA@MICCAI
+30044,SIGMOD Conference
+30045,SWAT4LS
+30046,ISVC (1)
+30047,ORE
+30048,VOILA@ISWC
+30049,WSDM
+30050,Int. J. Semantic Web Inf. Syst.
+30051,J. Comput. Sci. Technol.
+30052,Knowl.-Based Syst.
+30053,World Wide Web
+30054,COLING
+30055,SIGIR
+30056,WISE (1)
+30057,OM@ISWC
+30058,SumPre@ESWC
+30059,JIST (Workshops & Posters)
+30060,J. Web Semant.
+30061,APWeb
+30062,WWW
+30063,IEEE Trans. Image Processing
+30064,ICSC
+30065,IEEE Access
+30066,J. Comput. Physics
+30067,Multimedia Tools Appl.
+30068,IEEE Signal Process. Mag.
+30069,IEEE Trans. Circuits Syst. Video Techn.
+30070,IEEE Trans. Geoscience and Remote Sensing
+30071,AIKE
+30072,IEEE Geosci. Remote Sensing Lett.
+30073,Proceedings of the IEEE
+30074,ICCV Workshops
+30075,IJCNLP(1)
+30076,Neurocomputing
+30077,Multidim. Syst. Sign. Process.
+30078,CLSW
+30079,CVPR
+30080,IGARSS
+30081,CEUR Workshop Proceedings
+30082,IET Computer Vision
+30083,IEEE Trans. Autonomous Mental Development
+30084,BigMM
+30085,FSKD
+30086,Geoinformatics
+30087,ACM Multimedia
+30088,ICIP
+30089,ITSC
+30090,Mach. Vis. Appl.
+30091,NIPS
+30092,SSCI
+30093,ICCS
+30094,ICLR
+30095,CAIP (2)
+30096,Advanced Robotics
+30097,Future Generation Comp. Syst.
+30098,IMWUT
+30099,Personal and Ubiquitous Computing
+30100,HCI (22)
+30101,MUM
+30102,PerCom Workshops
+30103,JIP
+30104,Pervasive and Mobile Computing
+30105,IEEE Trans. Emerging Topics Comput.
+30106,AmI
+30107,EMNLP
+30108,iWOAR
+30109,PerCom
+30110,UbiComp
+30111,IEICE Electronic Express
+30112,J. Sel. Topics Signal Processing
+30113,ACM Trans. Embedded Comput. Syst.
+30114,ISCIT
+30115,ISWC
+30116,ACM Trans. Asian & Low-Resource Lang. Inf. Process.
+30117,MONET
+30118,IEEE Network
+30119,IEEE Trans. Vehicular Technology
+30120,COMPSAC (2)
+30121,DEXA (1)
+30122,GLOBECOM
+30123,GLOBECOM Workshops
+30124,MDM
+30125,SMARTCOMP
+30126,Lecture Notes of the Institute for Computer Sciences Social Informatics and Telecommunications Engineering
+30127,IEEE Communications Magazine
+30128,Soft Comput.
+30129,IEEE Trans. Communications
+30130,ACM Trans. Inf. Syst.
+30131,ACM Trans. Spatial Algorithms and Systems
+30132,AINA
+30133,ETFA
+30134,ISPACS
+30135,SECON
+30136,SPAWC
+30137,WI
+30138,Springer Briefs in Computer Science
+30139,Distributed and Parallel Databases
+30140,IEICE Transactions
+30141,ICST Trans. Mobile Communications Applications
+30142,EDBT
+30143,INFOCOM Workshops
+30144,MobiQuitous (Adjunct Proceedings)
+30145,MoMM
+30146,NANOCOM
+30147,NII Shonan Meet. Rep.
+30148,IJWIS
+30149,Mobile Information Systems
+30150,IEEE Trans. Industrial Electronics
+30151,BICT
+30152,DEXA (2)
+30153,ICC
+30154,MDM (1)
+30155,SRDS
+30156,SSDBM
+30157,IMCOM
+30158,TWEB
+30159,BigComp
+30160,ProfS/KG4IR/Data:Search@SIGIR
+30161,WWW (Companion Volume)
+30162,ACM Comput. Surv.
+30163,IJCNN
+30164,IPMU (3)
+30165,Inf. Retr. Journal
+30166,EUSFLAT/IWIFSGN (1)
+30167,FUZZ-IEEE
+30168,Inf. Process. Manage.
+30169,JIDM
+30170,SOCIALEDU
+30171,ECIR (2)
+30172,J. Braz. Comp. Soc.
+30173,NCA
+30174,SBBD Companion
+30175,Encyclopedia of Database Systems (2nd ed.)
+30176,IEEE Software
+30177,WebMedia
+30178,Pattern Recognition Letters
+30179,ECIR
+30180,SBBD
+30181,Requir. Eng.
+30182,International Journal of Geographical Information Science
+30183,JASIST
+30184,ICEIS (1)
+30185,Expert Systems
+30186,CAEPIA
+30187,Int. J. on Digital Libraries
+30188,CoNLL
+30189,HCOMP (WIP&Demo)
+30190,JCDL
+30191,WebSci
+30192,SIGIR Forum
+30193,DH
+30194,TPDL
+30195,ICALT
+30196,TLT
+30197,AINA Workshops
+30198,CHIIR
+30199,IEEE MultiMedia
+30200,User Model. User-Adapt. Interact.
+30201,3PGCIC
+30202,HT
+30203,DESIRES
+30204,KDD
+30205,ADC
+30206,ICBK
+30207,FQAS
+30208,HPCC/SmartCity/DSS
+30209,TIME
+30210,AsiaCCS
+30211,NDSS
+30212,EuroS&P
+30213,SPSM@CCS
+30214,ESORICS (1)
+30215,USENIX Security Symposium
+30216,J. Comput. Science
+30217,The New Review of Hypermedia and Multimedia
+30218,ICWSM
+30219,SIGWEB Newsletter
+30220,CHItaly
+30221,UMAP (Adjunct Publication)
+30222,UMAP
+30223,MMDA@ECAI
+30224,ACL (1)
+30225,LAK
+30226,Mensch & Computer Workshopband
+30227,UMAP Workshops
+30228,HICSS
+30229,First Monday
+30230,Computers & Education
+30231,Telematics and Informatics
+30232,IEEE Trans. Vis. Comput. Graph.
+30233,AVI
+30234,CSCL
+30235,Sensors
+30236,Int. J. Systems Science
+30237,Computers & Industrial Engineering
+30238,Comp. in Bio. and Med.
+30239,Computers and Electronics in Agriculture
+30240,Computer Networks
+30241,Int. J. Electronic Commerce
+30242,J. Sci. Comput.
+30243,Symmetry
+30244,IEEE Trans. Intelligent Transportation Systems
+30245,EURASIP J. Adv. Sig. Proc.
+30246,IJCSE
+30247,IJMDEM
+30248,I. J. Medical Informatics
+30249,J. Digital Imaging
+30250,J. Intellig. Transport. Systems
+30251,Neural Computing and Applications
+30252,ICPR
+30253,PAKDD (3)
+30254,SAC
+30255,Comput. Syst. Sci. Eng.
+30256,Data Science and Engineering
+30257,ISPRS Int. J. Geo-Information
+30258,Journal of Intelligent and Fuzzy Systems
+30259,Journal of Machine Learning Research
+30260,Memetic Computing
+30261,Microelectronics Journal
+30262,SIAM J. Scientific Computing
+30263,ICIS
+30264,BMVC
+30265,CCCV (2)
+30266,ICPCSEE (2)
+30267,SPAC
+30268,Applied Mathematics and Computation
+30269,BMC Bioinformatics
+30270,Computers in Human Behavior
+30271,Displays
+30272,Frontiers Comput. Sci.
+30273,IJGHPC
+30274,J. Electronic Imaging
+30275,JGIM
+30276,Statistical Analysis and Data Mining
+30277,IEEE Trans. Biomed. Engineering
+30278,AMC
+30279,CCNC
+30280,CLUSTER
+30281,CSCW
+30282,DEXA Workshops
+30283,DSP
+30284,iThings/GreenCom/CPSCom/SmartData
+30285,PACIS
+30286,Trustcom/BigDataSE/ISPA
+30287,WAIM (2)
+30288,Environmental Modelling and Software
+30289,iJET
+30290,Int. J. Fuzzy Syst.
+30291,PLoS Computational Biology
+30292,Signal Processing
+30293,IEEE Trans. Automation Science and Engineering
+30294,IEEE Wireless Commun. Letters
+30295,A-SSCC
+30296,CogSci
+30297,ICIMCS
+30298,ICNC
+30299,ICPADS
+30300,ICYCSEE
+30301,MedInfo
+30302,WACV
+30303,Neural Computation
+30304,3DV
+30305,BEA@NAACL-HLT
+30306,ICDM
+30307,Journal of Biomedical Informatics
+30308,DocEng
+30309,TDDL/MDQual/Futurity@TPDL
+30310,ICDAR
+30311,K-CAP
+30312,SG-CRC
+30313,IEEE Trans. Big Data
+30314,AAAI Workshop: Scholarly Big Data
+30315,ACCV (5)
+30316,DSMM@SIGMOD
+30317,SBD@SIGMOD
+30318,AAAI Workshops
+30319,J. Cheminformatics
+30320,TCDL Bulletin
+30321,TKDD
+30322,ACL (System Demonstrations)
+30323,ECML/PKDD (1)
+30324,SISAP
+30325,NHM
+30326,ACM TIST
+30327,IEEE Trans. Neural Netw. Learning Syst.
+30328,IEEE Trans. Signal Processing
+30329,DASFAA (2)
+30330,ICML
+30331,ICMR
+30332,UAI
+30333,Pattern Recognition
+30334,AISTATS
+30335,BIBM
+30336,MSWiM
+30337,IEEE Trans. Pattern Anal. Mach. Intell.
+30338,IEEE Trans. Cybernetics
+30339,CCPR (2)
+30340,TBC
+30341,ICCV
+30342,SDM
+30343,ITCS
+30344,NeurIPS
+30345,SODA
+30346,IEEE Computer
+30347,SIAM J. Discrete Math.
+30348,SIGKDD Explorations
+30349,COMAD
+30350,HLT-NAACL
+30351,J. ACM
+30352,TOPC
+30353,FOCS
+30354,NAACL-HLT (2)
+30355,NAACL-HLT
+30356,TACL
+30357,ACL (Tutorial Abstracts)
+30358,ACL (2)
+30359,HLT-NAACL Tutorials
+30360,RepEval@ACL
+30361,IMC
+30362,ICDT
+30363,PAKDD (2)
+30364,Network Science
+30365,DaWaK
+30366,Encyclopedia of Social Network Analysis and Mining. 2nd Ed.
+30367,Journal of Systems and Software
+30368,ACL (Student Research Workshop)
+30369,WAT@IJCNLP
+30370,LDAV
+30371,SocInfo (1)
+30372,Social Netw. Analys. Mining
+30373,BigData Congress
+30374,CICLing (2)
+30375,COLING (Demos)
+30376,IUI Companion
+30377,IV
+30378,NTCIR
+30379,BDA
+30380,VAST
+30381,T. Large-Scale Data- and Knowledge-Centered Systems
+30382,TPCTC
+30383,IJNGC
+30384,BDCAT
+30385,J. Intell. Inf. Syst.
+30386,DNIS
+30387,IDEAS
+30388,PAM
+30389,IEEE Security & Privacy
+30390,ACSAC
+30391,IEEE Symposium on Security and Privacy
+30392,it - Information Technology
+30393,ISSTA
+30394,RAID
+30395,SANER
+30396,COMPSAC
+30397,DSN
+30398,Financial Cryptography
+30399,Internet Measurement Conference
+30400,TRUST
+30401,Computers & Security
+30402,DIMVA
+30403,CODASPY
+30404,ANRW
+30405,ACM Conference on Computer and Communications Security
+30406,IEEE Symposium on Security and Privacy Workshops
+30407,PoPETs
+30408,CSF
+30409,HPCC/CSS/ICESS
+30410,DeMobile@SIGSOFT FSE
+30411,ESEC/SIGSOFT FSE
+30412,WEIS
+30413,Making Databases Work
+30414,VLDB J.
+30415,CIDR
+30416,Inf. Syst.
+30417,Machine Learning
+30418,SIGSPATIAL/GIS
+30419,IC2E
+30420,DBSec
+30421,ICSE
+30422,Empirical Software Engineering
+30423,REFSQ
+30424,CRiSIS
+30425,ICITST
+30426,EmpiRE
+30427,SACMAT
+30428,Int. J. Cooperative Inf. Syst.
+30429,J. Data and Information Quality
+30430,IEEE Trans. Information Forensics and Security
+30431,IEEE Trans. Mob. Comput.
+30432,ACM Trans. Internet Techn.
+30433,CIC
+30434,DSC
+30435,FUSION
+30436,GROUP
+30437,LCN
+30438,MILCOM
+30439,A Comprehensive Guide Through the Italian Database Research
+30440,IEEE Internet of Things Journal
+30441,JoWUA
+30442,IEEE Systems Journal
+30443,ACM Trans. Priv. Secur.
+30444,TOSN
+30445,IEEE Trans. Software Eng.
+30446,Wiley Interdiscip. Rev. Data Min. Knowl. Discov.
+30447,ASONAM
+30448,Inscrypt
+30449,CNSM
+30450,eScience
+30451,ESORICS (2)
+30452,EWSN
+30453,ICDCS Workshops
+30454,ICISSP
+30455,IoTDI
+30456,IRI
+30457,DroNet@MobiSys
+30458,SERVICES
+30459,SmartWorld/SCALCOM/UIC/ATC/CBDCom/IOP/SCI
+30460,WISE (2)
+30461,GeoInformatica
+30462,J. Inf. Sec. Appl.
+30463,Transactions on Data Privacy
+30464,IEEE Trans. Parallel Distrib. Syst.
+30465,PST
+30466,Big Data Research
+30467,IEEE Cloud Computing
+30468,Int. J. Inf. Sec.
+30469,J. Database Manag.
+30470,FiCloud
+30471,ISI
+30472,ISSNIP
+30473,NSS
+30474,TrustCom/BigDataSE/ISPA (1)
+30475,WOWMOM
+30476,Neural Networks
+30477,J. Artif. Intell. Soft Comput. Res.
+30478,ICONIP (2)
+30479,Data Knowl. Eng.
+30480,AIRS
+30481,ICADL
+30482,ECol@CIKM
+30483,DASFAA Workshops
+30484,ICME Workshops
+30485,iiWAS
+30486,SocInfo
+30487,WI-IAT (1)
+30488,ACM Trans. Algorithms
+30489,Encyclopedia of Big Data Technologies
+30490,Applied Network Science
+30491,J. Information Telecommunication
+30492,MICAI (2)
+30493,MICAI (1)
+30494,RecSys Challenge
+30495,Communications in Computer and Information Science
+30496,EDBT/ICDT Workshops
+30497,RecSys Posters
+30498,RecTemp@RecSys
+30499,RecSys
+30500,FAS*W@SASO/ICCAC
+30501,ACIIDS (1)
+30502,EGOVIS
+30503,ERCIM News
+30504,Ann. Math. Artif. Intell.
+30505,SIAM J. Comput.
+30506,Vietnam J. Computer Science
+30507,INRA@RecSys
+30508,LocalRec@RecSys
+30509,VTC Spring
+30510,Computational & Mathematical Organization Theory
+30511,IEEE Intelligent Systems
+30512,ICHI
+30513,BCB
+30514,ISCRAM
+30515,RTSI
+30516,J. Internet Services and Applications
+30517,LDOW@WWW
+30518,IEEE Trans. Services Computing
+30519,KNOW@LOD
+30520,IEEE MS
+30521,SmartCity
+30522,*SEM@NAACL-HLT
+30523,PeerJ PrePrints
+30524,Inf. Res.
+30525,SecureComm (2)
+30526,TrustCom/BigDataSE
+30527,J. Network and Computer Applications
+30528,SIGCAS Computers and Society
+30529,SIGMETRICS Performance Evaluation Review
+30530,SOSR
+30531,Allerton
+30532,IEEE/ACM Trans. Netw.
+30533,C2B(I)D@SIGCOMM
+30534,ApPLIED@PODC
+30535,PODC
+30536,USENIX Annual Technical Conference
+30537,Operating Systems Review
+30538,ASPLOS
+30539,DISC
+30540,IEEE Data Eng. Bull.
+30541,HotStorage
+30542,EuroSys
+30543,ICDCN
+30544,SOSP
+30545,NSDI
+30546,SIGCOMM
+30547,Computer Communication Review
+30548,CoNEXT
+30549,IJHPCN
+30550,EDCC
+30551,Euro-Par Workshops
+30552,CCGrid
+30553,ICIMTH
+30554,CLOSER (1)
+30555,Expert Syst. Appl.
+30556,ARC
+30557,DAIS
+30558,IEEE Trans. Contr. Sys. Techn.
+30559,IWSPA@CODASPY
+30560,Information
+30561,New Generation Comput.
+30562,NLP-TEA@ACL
+30563,CHI Extended Abstracts
+30564,ICDM Workshops
+30565,ICLR (Workshop)
+30566,INLG
+30567,Interspeech
+30568,SemEval@NAACL-HLT
+30569,WASSA@EMNLP
+30570,CVPR Workshops
+30571,EACL (Student Research Workshop)
+30572,ICSE (Companion Volume)
+30573,ISSRE
+30574,RepEval@EMNLP
+30575,ICONIP (1)
+30576,ASSETS
+30577,EUSPN/ICTH
+30578,UbiComp/ISWC Adjunct
+30579,PACLIC
+30580,ICME
+30581,OpenSym
+30582,IUI
+30583,HCI (14)
+30584,MMM (1)
+30585,Audio Mostly Conference
+30586,ICCT
+30587,GCCE
+30588,ICMU
+30589,CAID@IJCAI
+30590,JSAI-isAI Workshops
+30591,PervasiveHealth
+30592,HCI (15)
+30593,HealthCom
+30594,UbiComp Adjunct
+30595,Computación y Sistemas
+30596,ACIIDS (Extended Posters)
+30597,APSIPA
+30598,LREC
+30599,SSWS@ISWC
+30600,HybridSemStats@ISWC
+30601,SoICT
+30602,Wirtschaftsinformatik
+30603,CompleNet
+30604,NUT@IJCNLP
+30605,#MSM
+30606,NetSoft
+30607,MTSR
+30608,Computational Intelligence
+30609,AAAI Workshop: Symbiotic Cognitive Systems
+30610,Winter Simulation Conference
+30611,EURASIP J. Information Security
+30612,IET Cyper-Phys. Syst.: Theory & Appl.
+30613,Journal of Communications and Networks
+30614,IEEE Trans. Industrial Informatics
+30615,WF-IoT
+30616,IET Communications
+30617,NCC
+30618,Int. J. Auton. Comp.
+30619,AAAI Workshop: Artificial Intelligence for Cyber Security
+30620,AAAI Fall Symposia
+30621,Sarnoff Symposium
+30622,PrivOn@ISWC
+30623,BDM2I@ISWC
+30624,MoDeST@ISWC
+30625,LD4IE@ISWC
+30626,VTC Fall
+30627,IEEE CLOUD
+30628,Semdeep/NLIWoD@ISWC
+30629,SW4SG@ISWC
+30630,ISWC (Best Workshop Papers)
+30631,AAAI Spring Symposia
+30632,EDGE
+30633,IJCNLP (System Demonstrations)
+30634,TAC
+30635,Language Resources and Evaluation
+30636,SemWebEval@ESWC
+30637,Semantic Web Enabled Software Engineering
+30638,Appl. Math. Lett.
+30639,IEEE Trans. Multimedia
+30640,HRI (Companion)
+30641,ECML/PKDD (2)
+30642,Biomed. Signal Proc. and Control
+30643,ACM Trans. Graph.
+30644,RCAR
+30645,SOSE
+30646,Comp. Int. and Neurosc.
+30647,Computers & Mathematics with Applications
+30648,Geo-spatial Information Science
+30649,Int. J. Machine Learning & Cybernetics
+30650,BIRS-IMLKE
+30651,HRI (Extended Abstracts)
+30652,ICIG (2)
+30653,ROBIO
+30654,TAAI
+30655,APWeb (1)
+30656,ECCV Workshops (2)
+30657,IPSN
+30658,CHI
+30659,COMPSAC (1)
+30660,AI Matters
+30661,CSCW Companion
+30662,SocInfo (2)
+30663,HCI (8)
+30664,W4A
+30665,TOMCCAP
+30666,AI Soc.
+30667,EC-TEL
+30668,ESWC (1)
+30669,ESWC (Satellite Events)
+30670,EcoMo@ICWSM
+30671,INSCI
+30672,iJAC
+30673,Frontiers in Artificial Intelligence and Applications
+30674,IRCDL
+30675,IACR Cryptology ePrint Archive
+30676,eCrime
+30677,The New Codebreakers
+30678,Understanding Social Engineering Based Scams
+30679,PeerJ Computer Science
+30680,BMC Med. Inf. & Decision Making
+30681,JAMIA
+30682,ICHI Workshops
+30683,Games and Economic Behavior
+30684,MOBILESoft
+30685,TREC
+30686,IEEE Robotics and Automation Letters
+30687,J. Franklin Institute
+30688,Robotics and Autonomous Systems
+30689,ICASSP
+30690,ICRA
+30691,SemSci@ISWC
+30692,BMC Systems Biology
+30693,International Journal of Computer Vision
+30694,J. Visual Communication and Image Representation
+30695,ACM Trans. Design Autom. Electr. Syst.
+30696,CyberC
+30697,The Journal of Supercomputing
+30698,IEEE Trans. Med. Imaging
+30699,IEEE Trans. Systems Man and Cybernetics: Systems
+30700,3DOR
+30701,ECCV (8)
+30702,INTERSPEECH
+30703,RTCSA
+30704,Journal of Systems Architecture - Embedded Systems Design
+30705,Medical Image Analysis
+30706,IEEE Trans. Fuzzy Systems
+30707,CIT/IUCC/DASC/PICom
+30708,CSCloud
+30709,ICSS
+30710,ECIR (1)
+30711,EDM
+30712,ITiCSE
+30713,MLDM (2)
+30714,PSB
+30715,RE
+30716,eCOM@SIGIR
+30717,NL4SE@ESEC/SIGSOFT FSE
+30718,VL/HCC
+30719,WPES@CCS
+30720,Scientometrics
+30721,ICTIR
+30722,L@S
+30723,Bioinformatics
+30724,Natural Language Engineering
+30725,IEEE J. Biomedical and Health Informatics
+30726,ICWE
+30727,ECCV (1)
+30728,ACML
+30729,WI-IAT (2)
+30730,AAMAS
+30731,WINE
+30732,ECAI
+30733,Synthesis Lectures on Data Management
+30734,SIGMOD Record
+30735,Computational Biology
+30736,Neural Processing Letters
+30737,IEEE Trans. Reliability
+30738,A-Mobile@ASE
+30739,ASE
+30740,ICPE
+30741,ADMA
+30742,ICONIP (5)
+30743,QRS
+30744,IEEE Trans. Cloud Computing
+30745,CPSS@AsiaCCS
+30746,ICONIP (3)
+30747,SIGSOFT FSE
+30748,SCIENCE CHINA Information Sciences
+30749,Knowl. Inf. Syst.
+30750,ICSE (1)
+30751,FLAIRS Conference
+30752,MobiCASE
+30753,Int. J. Hum.-Comput. Stud.
+30754,TiiS
+30755,AIES
+30756,DARS
+30757,IROS
+30758,RO-MAN
+30759,SMC
+30760,CASE
+30761,GCAI
+30762,CMNA@ICAIL
+30763,MFI
+30764,INFORMS Journal on Computing
+30765,IEEE Trans. Human-Machine Systems
+30766,ACC
+30767,ICAART (1)
+30768,Autonomous Agents and Multi-Agent Systems
+30769,Operations Research
+30770,IEEE Trans. Robotics
+30771,EAPCogSci
+30772,GDN
+30773,HRI
+30774,PACMHCI
+30775,J. Computer-Mediated Communication
+30776,MIS Quarterly
+30777,IJCAR
+30778,SOFSEM
+30779,Inf. Comput.
+30780,KI
+30781,MFCS
+30782,J. Biomedical Semantics
+30783,AICCSA
+30784,KDIR
+30785,GI-Jahrestagung
+30786,Int. J. Computer Assisted Radiology and Surgery
+30787,Medical Imaging: Image-Guided Procedures
+30788,SC
+30789,UCC
+30790,J. Scheduling
+30791,EC
+30792,Math. Oper. Res.
+30793,ALENEX
+30794,APPROX-RANDOM
+30795,Algorithmica
+30796,Random Struct. Algorithms
+30797,J. Electronic Testing
+30798,Telecommunication Systems
+30799,COMPSAC Workshops
+30800,IPDPS
+30801,HotCloud
+30802,MSST
+30803,Int. J. Communication Systems
+30804,Wireless Networks
+30805,ECCV Workshops (1)
+30806,IWISC
+30807,NPC
+30808,COLT
+30809,ISM
+30810,DLfM
+30811,ALT
+30812,CCECE
+30813,PIKM@CIKM
+30814,CNS
+30815,ISMIR
+30816,MCM
+30817,RecSysKTL
+30818,JMLR Workshop and Conference Proceedings
+30819,BigMine
+30820,Digital Health
+30821,Data Min. Knowl. Discov.
+30822,SENSORNETS
+30823,HotSoS
+30824,SSR
+30825,ARES
+30826,EuroS&P Workshops
+30827,FPS
+30828,SPACE
+30829,CANS
+30830,IWSW
+30831,CONTEXT
+30832,LICS
+30833,PAKDD (1)
+30834,Electronic Commerce Research
+30835,CT-RSA
+30836,ASIACRYPT (2)
+30837,CRYPTO (1)
+30838,COMPASS
+30839,EUROCRYPT (3)
+30840,TCC (2)
+30841,ACNS
+30842,EUROCRYPT (1)
+30843,HotOS
+30844,MobiSys
+30845,Public Key Cryptography (2)
+30846,TCC (1)
+30847,ASIACRYPT (1)
+30848,J. Cryptology
+30849,EUROCRYPT (2)
+30850,DPM/CBT@ESORICS
+30851,Journal of Computer Security
+30852,J. Funct. Program.
+30853,POST
+30854,Artificial Intelligence in Medicine
+30855,EGC
+30856,Data Sci.
+30857,AIME
+30858,HIS
+30859,WHiSe@ISWC
+30860,HEALTHINF
+30861,BIOSTEC (Selected Papers)
+30862,EMSA-RMed@ESWC
+30863,KR4HC/ProHealth@HEC
+30864,KR4HC/ProHealth
+30865,Lecture Notes in Social Networks
+30866,Diagrams
+30867,IEEE Consumer Electronics Magazine
+30868,IEEE Trans. Comput. Social Systems
+30869,Dagstuhl Reports
+30870,HLT-NAACL Demos
+30871,J. Artificial General Intelligence
+30872,CODS Companion Volume
+30873,NLDB
+30874,Encyclopedia of Algorithms
+30875,ESA
+30876,HCOMP
+30877,ICALP
+30878,PODS
+30879,Data Stream Management
+30880,COMSNETS
+30881,S3@MobiCom
+30882,MobiCom
+30883,BuildSys@SenSys
+30884,SIGCSE
+30885,MobiSys (Companion Volume)
+30886,ACM DEV
+30887,ICTD
+30888,IT for Development
+30889,ICT4D
+30890,AffCon@AAAI
+30891,CLEF (Working Notes)
+30892,COMAD/CODS
+30893,NewsIR@ECIR
+30894,EMNLP (Demonstration)
+30895,Softw. Pract. Exper.
+30896,Software Quality Journal
+30897,CloudCom
+30898,IJCNLP(2)
+30899,KG4IR@SIGIR
+30900,IJDMMM
+30901,IJIDS
+30902,FIRE (Working Notes)
+30903,SRW@HLT-NAACL
+30904,IJIRR
+30905,Research in Computing Science
+30906,QuASoQ/WAWSE/CMCE@APSEC
+30907,ISEC
+30908,MIKE
+30909,OSDI
+30910,GKR
+30911,J. Solid-State Circuits
+30912,3DIC
+30913,Inf. Sci.
+30914,Nucleic Acids Research
+30915,Remote Sensing
+30916,Algorithms
+30917,Briefings in Bioinformatics
+30918,Comp. Med. Imag. and Graph.
+30919,Entropy
+30920,Intelligent Decision Technologies
+30921,Int. Journal of Network Management
+30922,Int. J. Online Eng.
+30923,Industrial Management and Data Systems
+30924,Informatica Lith. Acad. Sci.
+30925,J. Computational Applied Mathematics
+30926,Journal of Circuits Systems and Computers
+30927,Journal of Documentation
+30928,IEEE J Sel. Topics in Appl. Earth Observ. and Remote Sensing
+30929,IEEE Trans. Biomed. Circuits and Systems
+30930,IEEE/ACM Trans. Comput. Biology Bioinform.
+30931,Wireless Personal Communications
+30932,AICCC
+30933,CISP-BMEI
+30934,CASES
+30935,CSAI/ICIMT
+30936,ECCV Workshops (5)
+30937,eLEOT
+30938,FIE
+30939,I3E
+30940,ICACI
+30941,ICBL
+30942,ICCE
+30943,DSL
+30944,ICIC (3)
+30945,ICSOC
+30946,IECON
+30947,ISPA/IUCC/BDCloud/SocialCom/SustainCom
+30948,ISSRE Workshops
+30949,ITW
+30950,Nursing Informatics
+30951,UR
+30952,Computers & Electrical Engineering
+30953,Cluster Computing
+30954,Earth Science Informatics
+30955,Future Internet
+30956,IEEE Communications Letters
+30957,I. J. Bifurcation and Chaos
+30958,J. Parallel Distrib. Comput.
+30959,Simulation
+30960,Signal Processing Systems
+30961,APNOMS
+30962,CIS
+30963,CRI
+30964,DSAA
+30965,HCI (18)
+30966,ICIC (1)
+30967,ICIRA (1)
+30968,ICCC
+30969,IIKI
+30970,ISIT
+30971,SEAL
+30972,SEKE
+30973,SERA
+30974,VTC-Fall
+30975,Prediction and Inference from Social Networks and Social Media
+30976,Appl. Soft Comput.
+30977,IJGUC
+30978,International Journal of Software Engineering and Knowledge Engineering
+30979,J. Sensors
+30980,IEEE Trans. Wireless Communications
+30981,ICEC
+30982,CollaborateCom
+30983,CWMT
+30984,ES
+30985,ICNC-FSKD
+30986,Intelligent Information Processing
+30987,LISS
+30988,MSN
+30989,SmartCom
+30990,TRIDENTCOM
+30991,Computer Methods and Programs in Biomedicine
+30992,Digital Signal Processing
+30993,IJDSN
+30994,J. Electrical and Computer Engineering
+30995,J. Multivariate Analysis
+30996,SCC
+30997,AP-BPM
+30998,GRMSE
+30999,HMWC
+31000,IMIS
+31001,IScIDE (2)
+31002,IScIDE (1)
+31003,ISNN
+31004,MASS
+31005,MVA
+31006,ICSI (2)
+31007,WCSP
+31008,Interactions
+31009,MobileHCI
+31010,IEEE Trans. Emerging Topics in Comput. Intellig.
+31011,topiCS
+31012,Computer Science Review
+31013,ECML/PKDD (3)
+31014,J. Web Science
+31015,VSMM
+31016,ICCBR
+31017,ITS
+31018,Social Information Access
+31019,HealthRecSys@RecSys
+31020,AICS
+31021,SGAI Conf.
+31022,Advances in Social Media Analysis
+31023,Recommender Systems Handbook
+31024,Front. Robotics and AI
+31025,AutomotiveUI (adjunct)
+31026,HAI
+31027,SIGMIS-CPR
+31028,ICCBR Workshops
+31029,TweetMT@SEPLN
+31030,Conference on Designing Interactive Systems
+31031,Applied Ontology
+31032,SAD/CrowdBias@HCOMP
+31033,SEMANTICS Workshops
+31034,ArgMining@ACL
+31035,URSW@ISWC
+31036,e-Science
+31037,GSB@SIGIR
+31038,GIoTS
+31039,IOT
+31040,SEMANTICS
+31041,OTM Conferences (2)
+31042,SWIT@ISWC
+31043,DeSemWeb@ISWC
+31044,CPS Data
+31045,GvD
+31046,ICECCS
+31047,SALAD@ESWC
+31048,BIS
+31049,EGOV
+31050,WIMS
+31051,PRO-VE
+31052,KESW
+31053,OTM Workshops
+31054,ACL (4)
+31055,EKAW (Posters & Demos)
+31056,IRC
+31057,Reasoning Web
+31058,VS-GAMES
+31059,D-Lib Magazine
+31060,J. Data Semantics
+31061,J. Web Eng.
+31062,IEEE Trans. Cognitive and Developmental Systems
+31063,EACL (1)
+31064,SWCN@EMNLP
+31065,SEMANTICS Posters&Demos
+31066,ICDL-EPIROB
+31067,JOWO
+31068,LDK
+31069,STAF Workshops
+31070,MOD
+31071,MORSE@RoboCup
+31072,KEKI/NLP&DBpedia@ISWC
+31073,ICSR
+31074,LDL@IJCNLP
+31075,MSW@ESWC
+31076,SEMANTiCS (Posters & Demos)
+31077,IESD@ISWC
+31078,NLP-DBPEDIA@ISWC
+31079,SW4CH@ESWC
+31080,ADBIS (Short Papers and Workshops)
+31081,Quantum Information Processing
+31082,Intelligent Automation & Soft Computing
+31083,I. J. Network Security
+31084,Manufacturing & Service Operations Management
+31085,Security and Communication Networks
+31086,IEEE Trans. Smart Grid
+31087,ICCCS (1)
+31088,ISC2
+31089,MMM (2)
+31090,RFC
+31091,WoT
+31092,AICOL
+31093,DCAI
+31094,PAAMS (Workshops)
+31095,RANLP
+31096,EKAW (Satellite Events)
+31097,OWLED
+31098,Computer Standards & Interfaces
+31099,Interactive Learning Environments
+31100,JURIX
+31101,ICIC (2)
+31102,BDA@AVI
+31103,Journal of Visualization and Computer Animation
+31104,ELPUB
+31105,HCI (7)
+31106,ISAmI
+31107,WEBIST
+31108,GOODTECHS
+31109,HCI (27)
+31110,TELERISE@ICSE
+31111,ITBAM
+31112,REHAB (Revised Selected Papers)
+31113,REHAB
+31114,BJET
+31115,ANT/SEIT
+31116,ICCHP (1)
+31117,ACM SIGACCESS
+31118,AAATE Conf.
+31119,mLearn
+31120,iConference
+31121,IUI Workshops
+31122,CHI PLAY (Companion)
+31123,W2GIS
+31124,EDB
+31125,NMT@ACL
+31126,AFRICACRYPT
+31127,CollabTech
+31128,HCI (1)
+31129,HCI (3)
+31130,INTETAIN
+31131,OZCHI
+31132,Trans. GIS
+31133,IA3@SC
+31134,IEEE Trans. on CAD of Integrated Circuits and Systems
+31135,SBP
+31136,Applications of Social Media and Social Network Analysis
+31137,ONTOBRAS
+31138,J. Visualization
+31139,NeuroImage
+31140,FPGA
+31141,Appl. Intell.
+31142,Complexity
+31143,Int. J. Digital Earth
+31144,Sig. Proc.: Image Comm.
+31145,IEEE Trans. Instrumentation and Measurement
+31146,ACSSC
+31147,Principles of Modeling
+31148,CCHI
+31149,CSCWD
+31150,ICA3PP (1)
+31151,ICCAIS
+31152,ICGDA
+31153,ICONIP (4)
+31154,ICPHM
+31155,IGTA
+31156,Intelligent Vehicles Symposium
+31157,NLPCC (1)
+31158,IJCSR
+31159,European Journal of Operational Research
+31160,Computers & Geosciences
+31161,Information & Management
+31162,Journal of Computational Chemistry
+31163,Operational Research
+31164,IEEE Trans. Comput. Intellig. and AI in Games
+31165,IEEE ICCI*CC
+31166,ACPR
+31167,ASICON
+31168,CAMSAP
+31169,DMBD
+31170,ICCCN
+31171,OPTICS
+31172,ICMLA
+31173,ISPA/IUCC
+31174,PCM (1)
+31175,SenSys
+31176,TrustCom/BigDataSE/ICESS
+31177,Computer Communications
+31178,Decision Support Systems
+31179,IJITN
+31180,TIIS
+31181,J. Cloud Computing
+31182,J. Real-Time Image Processing
+31183,Numerical Lin. Alg. with Applic.
+31184,Rel. Eng. & Sys. Safety
+31185,FSDM
+31186,HPCA
+31187,ISCAS
+31188,Monterey Workshop
+31189,EduHPC@SC
+31190,SIGMETRICS
+31191,SYSTOR
+31192,CSSP
+31193,Journal of Chemical Information and Modeling
+31194,Mathematics and Computers in Simulation
+31195,IEEE Pervasive Computing
+31196,ICICS
+31197,ChinaCom
+31198,DAC
+31199,ICINCO (2)
+31200,IEA/AIE
+31201,Intelligent Environments (Workshops)
+31202,ISGT
+31203,ITQM
+31204,NEMS
+31205,ISC
+31206,VCIP
+31207,Mobile Cloud Visual Media Computing
+31208,IEEE Trans. Multi-Scale Computing Systems
+31209,CEC
+31210,FCCM
+31211,GECCO (Companion)
+31212,ICARCV
+31213,Computer Architecture Letters
+31214,IEEE Comp. Int. Mag.
+31215,EURASIP J. Wireless Comm. and Networking
+31216,IEEE Trans. Evolutionary Computation
+31217,FPL
+31218,ICCAD
+31219,WCNC
+31220,ACALCI
+31221,ENASE
+31222,ICNCC
+31223,ICWE Workshops
+31224,IDCS
+31225,IoTaaS
+31226,WOSC@Middleware
+31227,RE Workshops
+31228,LNI
+31229,SEMANTiCS (Posters Demos SuCCESS)
+31230,RMC
+31231,Trans. Large-Scale Data- and Knowledge-Centered Systems
+31232,RMC@ICWE
+31233,Int. J. Hum. Comput. Interaction
+31234,KDWeb
+31235,LAL@LAK
+31236,IEEE/ACM Trans. Audio Speech & Language Processing
+31237,SE4COG@ICSE
+31238,CitRec@RecSys
+31239,CRPIT
+31240,Games
+31241,Computer Science - R&D
+31242,ICANN (2)
+31243,MiSE@ICSE
+31244,MOBILESoft@ICSE
+31245,MEDI
+31246,AVR (1)
+31247,IFIN/ISEM@INSCI
+31248,SEBD
+31249,CIG
+31250,GALA
+31251,GIR
+31252,IJBDI
+31253,JACIII
+31254,APWeb/WAIM (1)
+31255,ICDIM
+31256,4OR
+31257,FAW
+31258,NAS
+31259,IEEE Journal on Selected Areas in Communications
+31260,IWQoS
+31261,MICCAI (2)
+31262,SAGT
+31263,Electronic Colloquium on Computational Complexity (ECCC)
+31264,J. Comb. Optim.
+31265,Conference on Computational Complexity
+31266,COCOON
+31267,ICEBE
+31268,INFOCOM
+31269,LATA
+31270,UPINLBS
+31271,ICIT
+31272,ICVIP
+31273,IntelliSys (1)
+31274,PCM (2)
+31275,ACM TUR-C
+31276,AISI
+31277,ICVS
+31278,ICNP
+31279,Computers in Industry
+31280,Advanced Engineering Informatics
+31281,Concurrent Engineering: R&A
+31282,CSOC (3)
+31283,HCI (16)
+31284,IJWMC
+31285,WOCC
+31286,IFIP Int. Conf. Digital Forensics
+31287,IJMIR
+31288,Signal Image and Video Processing
+31289,AIVR
+31290,MADiMa@IJCAI
+31291,VRST
+31292,WML@ICDAR
+31293,ICIAP Workshops
+31294,ACM Multimedia (Thematic Workshops)
+31295,ECCV (4)
+31296,MADiMa @ ACM Multimedia
+31297,PSIVT
+31298,SIGGRAPH Asia Mobile Graphics and Interactive Applications
+31299,Database
+31300,ADCS
+31301,SCAI@EMNLP
+31302,DLRS@RecSys
+31303,JOCCH
+31304,BIR@ECIR
+31305,LEARNER@ICTIR
+31306,Foundations and Trends in Information Retrieval
+31307,Synthesis Lectures on Information Concepts Retrieval and Services
+31308,ESAIR@CIKM
+31309,CLEF
+31310,CCIA
+31311,MobileHCI Adjunct
+31312,Workshops in Computing
+31313,TACCESS
+31314,SPIRE
+31315,Comput. J.
+31316,SPS@SIGIR
+31317,AIST
+31318,ASIST
+31319,GbRPR
+31320,Studies in Computational Intelligence
+31321,The Visual Computer
+31322,DAS
+31323,ESANN
+31324,DATA
+31325,IVAPP
+31326,ISMIS
+31327,RNTI
+31328,Adv. Data Analysis and Classification
+31329,HistoInformatics@DH
+31330,ACM Trans. Database Syst.
+31331,WebDB
+31332,NUT@EMNLP
+31333,COMPLEX NETWORKS (2)
+31334,COMPLEX NETWORKS (1)
+31335,ICANN (1)
+31336,TextGraphs@NAACL-HLT
+31337,EACL (2)
+31338,NFiS@EMNLP
+31339,Fundam. Inform.
+31340,CORIA
+31341,EMNLP (System Demonstrations)
+31342,Datenbank-Spektrum
+31343,AKBC@NAACL-HLT
+31344,BioNLP@ACL
+31345,ICDE Workshops
+31346,BioNLP@IJCNLP
+31347,ANLP@ACL
+31348,Distributed Computing
+31349,Theory Comput. Syst.
+31350,SPAA
+31351,Intell. Data Anal.
+31352,IALP
+31353,ICIRA (2)
+31354,UKCI
+31355,WMT
+31356,CCL
+31357,Eng. Appl. of AI
+31358,ICA3PP (Workshops and Symposiums)
+31359,NLPCC
+31360,Electronic Commerce Research and Applications
+31361,BioNLP
+31362,Encyclopedia of Machine Learning and Data Mining
+31363,Informatica (Slovenia)
+31364,The Electronic Library
+31365,IEEE Conf. on Intelligent Systems
+31366,EEPM@eGOV
+31367,Comput. Sci. Inf. Syst.
+31368,Computer Speech & Language
+31369,VEHITS
+31370,ICCSE
+31371,MIWAI
+31372,Procedia Computer Science
+31373,BI
+31374,CASA
+31375,WI-IAT (3)
+31376,EPJ Data Sci.
+31377,AMW
+31378,Web Intelligence
+31379,ISPAN-FCST-ISCC
+31380,Multimedia Syst.
+31381,Computational Linguistics
+31382,NLPCC (2)
+31383,NLPCC/ICCPOL
+31384,WALCOM
+31385,Computing in Science and Engineering
+31386,EURASIP J. Image and Video Processing
+31387,Front. Comput. Neurosci.
+31388,IEEE Trans. on Circuits and Systems
+31389,APCC
+31390,DASFAA (1)
+31391,ICCA
+31392,Int. J. Intelligent Transportation Systems Research
+31393,J. Inf. Sci. Eng.
+31394,JRNAL
+31395,Frontiers of IT & EE
+31396,IEEE Trans. Engineering Management
+31397,BHI
+31398,DICTA
+31399,IPCCC
+31400,ISBI
+31401,CIS/RAM
+31402,Computational Visual Media
+31403,JCM
+31404,AsiaSim/SCS AutumnSim (1)
+31405,CDC
+31406,CinC
+31407,IC-NIDC
+31408,Micromachines
+31409,Pattern Anal. Appl.
+31410,IEEE Signal Process. Lett.
+31411,HPCA (China)
+31412,Pacific Symposium on Biocomputing
+31413,SecureComm
+31414,UIC/ATC/ScalCom
+31415,SOCS
+31416,ER
+31417,KES
+31418,CYBCONF
+31419,VISIGRAPP (2: HUCAPP)
+31420,ICCS (1)
+31421,Peer-to-Peer Networking and Applications
+31422,TACO
+31423,International Journal of Parallel Programming
+31424,Int. J. Web Service Res.
+31425,IEEE Trans. Network and Service Management
+31426,PACT
+31427,ACISP
+31428,CGO
+31429,CloudNet
+31430,DATE
+31431,GPC
+31432,ICANN (3)
+31433,ICPP
+31434,PMAM@PPoPP
+31435,PPOPP
+31436,PRICAI (1)
+31437,IJAACS
+31438,Information Fusion
+31439,Scientific Programming
+31440,TOMPECS
+31441,T-SUSC
+31442,ACISP (2)
+31443,ACISP (1)
+31444,HCC
+31445,ICA3PP
+31446,ICS
+31447,MEMSYS
+31448,PDP
+31449,SOCA
+31450,APSCC
+31451,BlackSeaCom
+31452,DASC/PiCom/DataCom/CyberSciTech
+31453,ISPDC
+31454,WoWMoM
+31455,IJWGS
+31456,J. Comput. Syst. Sci.
+31457,IAS
+31458,ASAP
+31459,Conf. Computing Frontiers
+31460,CloudCom-Asia
+31461,CONIELECOMP
+31462,ICA3PP (4)
+31463,ICA3PP (3)
+31464,ICA3PP (2)
+31465,ISCC
+31466,KSEM
+31467,WISEC
+31468,Inf. Process. Lett.
+31469,FAST
+31470,SIROCCO
+31471,MIST@CCS
+31472,OPODIS
+31473,PLDI
+31474,Transactional Memory
+31475,NUT@COLING
+31476,IEEE Trans. Affective Computing
+31477,ICACCI
+31478,ICCSA (1)
+31479,SNAMS
+31480,Parallel Processing Letters
+31481,BUCC@ACL
+31482,ICAPR
+31483,IHCI
+31484,ISNN (2)
+31485,PReMI
+31486,Computer Vision and Image Understanding
+31487,EMBC
+31488,ICCSA (3)
+31489,ICVGIP Workshops
+31490,NetMAHIB
+31491,CODS
+31492,BMC Medical Imaging
+31493,IDA
+31494,SemEval@ACL
+31495,Panhellenic Conference on Informatics
+31496,SSTD
+31497,LIPIcs
+31498,GamifIR@ECIR
+31499,ADBIS
+31500,ODLS
+31501,ITOR
+31502,The Information Retrieval Series
+31503,SCST@ECIR
+31504,I. J. Data Science and Analytics
+31505,Human and Machine Learning
+31506,BioData Mining
+31507,SMSociety
+31508,Foundations and Trends in Databases
+31509,WorldCIST (3)
+31510,K-CAP Workshops
+31511,PROFILES@ISWC
+31512,(KNOW@LOD/CoDeS)@ESWC
+31513,ICTERI
+31514,International Journal on Artificial Intelligence Tools
+31515,ICBO
+31516,CSI-SE@ICSE
+31517,Koli Calling
+31518,MIS4TEL
+31519,Australasian Conference on Artificial Intelligence
+31520,RuleML
+31521,CICLing (1)
+31522,PACLING
+31523,PRICAI
+31524,KEOD
+31525,IJITM
+31526,CCBR
+31527,ICMLSC
+31528,JIPS
+31529,SIAM J. Matrix Analysis Applications
+31530,ICSAI
+31531,Adv. Comput. Math.
+31532,Social Networks
+31533,ANCS
+31534,GlobalSIP
+31535,Optical Switching and Networking
+31536,SIAM Journal on Optimization
+31537,CBD
+31538,CCKS
+31539,SMP
+31540,Synthesis Lectures on the Semantic Web: Theory and Technology
+31541,OM
+31542,Knowledge Eng. Review
+31543,Exploiting Linked Data and Knowledge Graphs in Large Organisations
+31544,IEEE Intelligent Informatics Bulletin
+31545,BCS HCI
+31546,RR
+31547,IJICT
+31548,DL4KGS@ESWC
+31549,GEM
+31550,IOV
+31551,International KEYSTONE Conference
+31552,Government Information Quarterly
+31553,BigDataService
+31554,DG.O
+31555,ePart
+31556,ISTAS
+31557,IWCMC
+31558,TPLP
+31559,Graph Data Management
+31560,BICOD
+31561,ACM Trans. Inf. Syst. Secur.
+31562,STM
+31563,BiDu-Posters@VLDB
+31564,SBBD (Short Papers)
+31565,GeoInfo
+31566,Encyclopedia of GIS
+31567,DaMoN
+31568,MASCOTS
+31569,QEST
+31570,SPECTS
+31571,SIGSIM-PADS
+31572,VALUETOOLS
+31573,NSPW
+31574,TCPS
+31575,TAAS
+31576,e-Energy
+31577,POMACS
+31578,SEC
+31579,ICCPS
+31580,SIGMETRICS (Abstracts)
+31581,e-Energy (Posters)
+31582,IGSC
+31583,Middleware
+31584,SmartGridComm
+31585,HPDC
+31586,ICAC
+31587,MMSys
+31588,AIED (2)
+31589,AIED
+31590,Dublin Core Conference
+31591,Research and Practice in Technology Enhanced Learning
+31592,Visualization and Data Analysis
+31593,IJISP
+31594,SmartLearn@IUI
+31595,ESIDA@IUI
+31596,IntRS@RecSys
+31597,I. J. Artificial Intelligence in Education
+31598,UMAP (Extended Proceedings)
+31599,AIED Workshops
+31600,EDM (Workshops)
+31601,Aslib J. Inf. Manag.
+31602,JOLIS
+31603,HCI (21)
+31604,SAL@SIGIR
+31605,Program
+31606,ACM Trans. Comput.-Hum. Interact.
+31607,Comput. Graph. Forum
+31608,SIGDIAL Conference
+31609,NOSSDAV
+31610,HotWireless@MOBICOM
+31611,CAN@CoNEXT
+31612,LANMAN
+31613,MoVid@MMSys
+31614,HotMobile
+31615,J. Ambient Intelligence and Humanized Computing
+31616,IJWMIP
+31617,Annual Reviews in Control
+31618,Int. J. Computer Integrated Manufacturing
+31619,I. J. Robotics and Automation
+31620,Robotica
+31621,Robotics
+31622,ICMRE
+31623,IScIDE
+31624,Argument & Computation
+31625,AIM
+31626,CCCV (1)
+31627,CDVE
+31628,ICAIL
+31629,Conference on Designing Interactive Systems (Companion Volume)
+31630,Human-Computer Interaction
+31631,ACM Trans. Economics and Comput.
+31632,SmartCloud
+31633,International Journal of Information Technology and Decision Making
+31634,COLING (Tutorials)
+31635,Canadian Conference on AI
+31636,PIMRC
+31637,J. Medical Systems
+31638,ICARM
+31639,PRCV (4)
+31640,ISNN (1)
+31641,NCTCS
+31642,Int. J. Control
+31643,J. Comput. Meth. in Science and Engineering
+31644,J. Systems & Control Engineering
+31645,CRC
+31646,ISQED
+31647,ICHL
+31648,INTRUST
+31649,UIST
+31650,J. Economic Theory
+31651,Theory of Computing
+31652,COSN
+31653,PEARC
+31654,IPDPS Workshops
+31655,Mobile Health - Sensors Analytic Methods and Applications
+31656,HILDA@SIGMOD
+31657,VAHC
+31658,Synthesis Lectures on Data Mining and Knowledge Discovery
+31659,ISGT Europe
+31660,Networking
+31661,ECSCW Exploratory Papers
+31662,Behaviour & IT
+31663,Designing Socially Embedded Technologies in the Real-World
+31664,Wireless Communications and Mobile Computing
+31665,BLINK/NLIWoD3@ISWC
+31666,TSD
+31667,IJISCRAM
+31668,Inf. Syst. E-Business Management
+31669,FRUCT
+31670,Handbook of Model Checking
+31671,CCPR (1)
+31672,ICIRA (3)
+31673,MobileCloud
+31674,VTDC@HPDC
+31675,TSP
+31676,Int. J. Comput. Intell. Syst.
+31677,IEEE Wireless Commun.
+31678,Real-Time Systems
+31679,ICDCIT
+31680,DEEM@SIGMOD
+31681,Data-Centric Systems and Applications
+31682,SIGSPATIAL Special
+31683,GeoPrivacy@SIGSPATIAL
+31684,HotNets
+31685,J. Big Data
+31686,Medical Data Privacy Handbook
+31687,SNAPL
+31688,I. J. Circuit Theory and Applications
+31689,TARK
+31690,SIGecom Exchanges
+31691,Linguamática
+31692,IEEE Computer Graphics and Applications
+31693,J. Open Source Software
+31694,IPAW
+31695,TaPP
+31696,EuroRV³@EuroVis
+31697,NLP+CSS@EMNLP
+31698,NDA@SIGMOD
+31699,ARSO
+31700,ICMI
+31701,ISBA
+31702,Cognitive Processing
+31703,SII
+31704,IET Networks
+31705,ChinaCom (2)
+31706,IM
+31707,ICIIP
+31708,Computers & OR
+31709,Machine Translation
+31710,EVIA@NTCIR
+31711,*SEM
+31712,NAACL-HLT (3)
+31713,ACSW
+31714,CyberSec
+31715,FAT
+31716,GMDS
+31717,BTW
+31718,SocInf@IJCAI
+31719,STOC
+31720,CCCG
+31721,EAI Endorsed Trans. Serious Games
+31722,Electronic Notes in Discrete Mathematics
+31723,ICISC
+31724,IEEE Intell. Transport. Syst. Mag.
+31725,WPMC
+31726,IJPRAI
+31727,ICCCS (3)
+31728,PACMPL
+31729,ESOP
+31730,CPP
+31731,POPL
+31732,PLAS@CCS
+31733,BioCAS
+31734,SOUPS @ USENIX Security Symposium
+31735,CitiLab@ICWSM
+31736,WAY@SOUPS
+31737,APF
+31738,SOUPS
+31739,Discrete Applied Mathematics
+31740,SETTA
+31741,APWeb/WAIM (2)
+31742,Theor. Comput. Sci.
+31743,Autom. Softw. Eng.
+31744,J. Autom. Reasoning
+31745,Programming Journal
+31746,DLS
+31747,FM
+31748,ICER
+31749,Onward!
+31750,SEFM
+31751,PLAS@ECOOP
+31752,ICFP
+31753,PEPM
+31754,PLMW@POPL
+31755,IFM
+31756,Concurrency Security and Puzzles
+31757,Programming Languages with Applications to Biology and Security
+31758,DPM/QASA@ESORICS
+31759,MICCAI (3)
+31760,Computational Biology and Chemistry
+31761,Adv. in MM
+31762,Comp.-Aided Civil and Infrastruct. Engineering
+31763,Computers & Chemical Engineering
+31764,J. Systems Science & Complexity
+31765,IWBI
+31766,Nets4Cars/Nets4Trains/Nets4Aircraft
+31767,NOMS
+31768,Quality and Reliability Eng. Int.
+31769,Technometrics
+31770,HCI (6)
+31771,ICMLC
+31772,ICUFN
+31773,MMSP
+31774,MobiQuitous
+31775,IEEE Communications Surveys and Tutorials
+31776,UEMCON
+31777,IJCIH
+31778,J. Intelligent Manufacturing
+31779,SLIP
+31780,MedRACER+WOMoCoE@KR
+31781,UIST (Adjunct Volume)
+31782,RAMBO+BIA+TIA@MICCAI
+31783,Medical Imaging: Image Processing
+31784,Med. Biol. Engineering and Computing
+31785,IC3K
+31786,LIDTA@PKDD/ECML
+31787,COMMA
+31788,Swarm and Evolutionary Computation
+31789,ASM@ACM Multimedia
+31790,Polibits
+31791,AAAI Workshop: AI for Cities
+31792,Innovate-Data
+31793,CeDEM
+31794,SAFECOMP Workshops
+31795,SIMPDA
+31796,BPM (Forum)
+31797,BPM (Demos)
+31798,OBD
+31799,Business Process Management Workshops
+31800,BPM
+31801,DIACRON@ESWC
+31802,SIMPDA (Revised Selected Papers)
+31803,WETICE
+31804,ESWC (2)
+31805,Front. ICT
+31806,Creativity & Cognition
+31807,FiCloud Workshops
+31808,News@ICWSM
+31809,HiPINEB@HPCA
+31810,ICCHP (2)
+31811,CHDDH
+31812,CogALex@COLING
+31813,DSAI
+31814,*SEM@ACL
+31815,I-KNOW
+31816,IWCS
+31817,EASE
+31818,CAiSE
+31819,SPLC
+31820,Conceptual Modeling Perspectives
+31821,DESRIST
+31822,EICS
+31823,SPLC (B)
+31824,New Perspectives in End-User Development
+31825,Enterprise IS
+31826,ICSOFT-PT
+31827,Computing
+31828,Information & Software Technology
+31829,CAiSE Forum
+31830,ICSOC Workshops
+31831,Service Oriented Computing and Applications
+31832,Managing the Web of Things
+31833,EDOC
+31834,ICSE-SEIS
+31835,C&T
+31836,INTERACT (3)
+31837,CTS
+31838,PPT@PERSUASIVE
+31839,PATCH@IUI
+31840,Ad Hoc & Sensor Wireless Networks
+31841,Automatica
+31842,Communications in Statistics - Simulation and Computation
+31843,IJIRA
+31844,Int. J. Imaging Systems and Technology
+31845,J. Robotics
+31846,T. Edutainment
+31847,Computers Environment and Urban Systems
+31848,ICCS (3)
+31849,ICCCS (6)
+31850,SAM
+31851,Spatial Cognition
+31852,Computer Physics Communications
+31853,IJIPT
+31854,Industrial Robot
+31855,Numerical Algorithms
+31856,Natural Computing
+31857,Spatial Cognition & Computation
+31858,J. Vis. Lang. Comput.
+31859,HAVE
+31860,HCI (17)
+31861,LSMS/ICSEE (3)
+31862,LSMS/ICSEE (1)
+31863,HotConNet@SIGCOMM
+31864,SSCC
+31865,ICSI (1)
+31866,Computer-Aided Design
+31867,Computational Statistics & Data Analysis
+31868,IJSTM
+31869,BIC-TA (2)
+31870,CITS
+31871,ISWCS
+31872,LBS
+31873,HotWireless@MobiCom
+31874,WAIM (1)
+31875,WASA
+31876,J. Applied Mathematics
+31877,IEEE Robot. Automat. Mag.
+31878,BPOE
+31879,ChinaSIP
+31880,FG
+31881,ICIG (3)
+31882,NATW
+31883,VTS
+31884,OTM Conferences (1)
+31885,Synthesis Lectures on Artificial Intelligence and Machine Learning
+31886,Informatik Spektrum
+31887,AMEC/TADA
+31888,MobiHoc
+31889,CC
+31890,ISoLA (4)
+31891,Programming
+31892,APSEC
+31893,ECOOP
+31894,GPCE
+31895,ICST
+31896,APLAS
+31897,ICOOOLPS@ECOOP
+31898,Erlang Workshop
+31899,Euro-Par
+31900,IC2E Workshops
+31901,ISoLA (2)
+31902,OOPSLA
+31903,RV
+31904,Software Engineering
+31905,Sci. Comput. Program.
+31906,MODULARITY
+31907,SPLASH (Companion Volume)
+31908,Software Engineering & Management
+31909,APMS (2)
+31910,AAAI Workshop: Multiagent Interaction without Prior Coordination
+31911,Probabilistic Graphical Models
+31912,ICAPS
+31913,ICAART (2)
+31914,ICAART (Revised Selected Papers)
+31915,BTW (Workshops)
+31916,EuroVis (Short Papers)
+31917,Grundlagen von Datenbanken
+31918,S4BioDiv@ISWC
+31919,EuroVis (Posters)
+31920,CBI (2)
+31921,BTW Workshops
+31922,ERP Future
+31923,ESOCC
+31924,MODELSWARD (Revised Selected Papers)
+31925,MODELSWARD
+31926,IIMSS
+31927,Computer and Information Science
+31928,IJDMB
+31929,GECON
+31930,Australasian J. of Inf. Systems
+31931,Information Systems Frontiers
+31932,Petri Nets
+31933,AusDM
+31934,CCBD
+31935,IIAI-AAI
+31936,PAKDD Workshops
+31937,FGCT
+31938,Dagstuhl Manifestos
+31939,Logical Methods in Computer Science
+31940,Annals OR
+31941,Math. Program. Comput.
+31942,DARE@PKDD/ECML
+31943,SIU
+31944,EUSIPCO
+31945,BESC
+31946,ISPEC
+31947,Journal of Computer-Aided Molecular Design
+31948,Management Science
+31949,Cognitive Computation
+31950,APCCAS
+31951,COCOA
+31952,ISIC
+31953,BWCCA
+31954,ISKE
+31955,Journal of Intelligent and Robotic Systems
+31956,CCIR
+31957,PCS
+31958,EIDWT
+31959,IJHPCA
+31960,IJTHI
+31961,Simulation Modelling Practice and Theory
+31962,Internet Research
+31963,Ad Hoc Networks
+31964,IEEE Trans. VLSI Syst.
+31965,IJISSS
+31966,SBP-BRiMS
+31967,CRIWG
+31968,J. Complexity
+31969,Mathematical Structures in Computer Science
+31970,Automatic Control and Computer Sciences
+31971,IJISCM
+31972,IJWIN
+31973,Photonic Network Communications
+31974,Science and Engineering Ethics
+31975,IEEE Trans. Intelligent Vehicles
+31976,Transportation Science
+31977,CSoNet
+31978,RTAS
+31979,DBTest@SIGMOD
+31980,Comp. Applic. in Engineering Education
+31981,I. J. Social Robotics
+31982,J. High Speed Networks
+31983,APNet
+31984,ASCC
+31985,COCOA (2)
+31986,GSKI (1)
+31987,ICAR
+31988,ICUWB
+31989,CCTA (1)
+31990,CCTA (2)
+31991,ITC
+31992,RTSS
+31993,TAMC
+31994,VLSI-DAT
+31995,Ecological Informatics
+31996,IJWA
+31997,Intelligent Service Robotics
+31998,ILP (Short Papers)
+31999,ISSCC
+32000,NFV-SDN
+32001,URAI
+32002,WUWNet
+32003,Comp. Math. Methods in Medicine
+32004,Experimental Mathematics
+32005,HCI (5)
+32006,ICCCS
+32007,ECCV (15)
+32008,ECCV (5)
+32009,Image Vision Comput.
+32010,ECCV (2)
+32011,ECCV (7)
+32012,CEA@IJCAI
+32013,ICOIN
+32014,INDOCRYPT
+32015,ICSDE
+32016,Int. J. Pervasive Computing and Communications
+32017,NBiS
+32018,CHINZ
+32019,J. Nonlinear Science
+32020,MICRO
+32021,Graphs and Combinatorics
+32022,CSE/EUC/DCABES
+32023,Microelectronics Reliability
+32024,ADHOCNETS
+32025,ECC
+32026,ICCC Workshops
+32027,ICSCIB
+32028,ICSME
+32029,SATE
+32030,Discrete Mathematics
+32031,HOST
+32032,ISS
+32033,WICON
+32034,Genomics Proteomics & Bioinformatics
+32035,EAI Endorsed Trans. Scalable Information Systems
+32036,CCA
+32037,ITA
+32038,Ars Comb.
+32039,QSHINE
+32040,HCI (13)
+32041,Biosystems
+32042,Computer Aided Geometric Design
+32043,CSE/EUC (2)
+32044,J. Bioinformatics and Computational Biology
+32045,APWeb (2)
+32046,IEEE WISA
+32047,APWeb Workshops
+32048,IJES
+32049,WAIM
+32050,ICSE (SEET)
+32051,IET Signal Processing
+32052,RAIRO - Operations Research
+32053,ICPCSEE (1)
+32054,IPIN
+32055,ACCV (1)
+32056,ICYCSEE (1)
+32057,SSP
+32058,WiMob
+32059,IEEE Trans. Aerospace and Electronic Systems
+32060,EWDTS
+32061,ICWL
+32062,SNPD
+32063,LSDS-IR@CIKM
+32064,ICONIP (7)
+32065,ECCV (11)
+32066,HCI (12)
+32067,Int. J. Applied Earth Observation and Geoinformation
+32068,Computers & Graphics
+32069,APPT
+32070,BigCom
+32071,ICAIT
+32072,Medical Imaging: Computer-Aided Diagnosis
+32073,MLMI@MICCAI
+32074,MT-ITS
+32075,EURASIP J. Emb. Sys.
+32076,HCI (11)
+32077,ICCD
+32078,SKG
+32079,J. Grid Comput.
+32080,ECCV (3)
+32081,KSEM (2)
+32082,IEEE Trans. Automat. Contr.
+32083,CSE/EUC (1)
+32084,ASP-DAC
+32085,J. Complex Networks
+32086,OSS
+32087,SMAP
+32088,PCI
+32089,AIAI
+32090,INNS Conference on Big Data
+32091,WASSA@NAACL-HLT
+32092,CAV (2)
+32093,MELT@SIGSPATIAL
+32094,EM-GIS
+32095,ECSCW
+32096,JAISE
+32097,SEMPER@ESWC
+32098,MEPDaW/LDQ@ESWC
+32099,WSF@SOUPS
+32100,WPI@SOUPS
+32101,ICST Trans. Ambient Systems
+32102,DeRiVE@ESWC
+32103,S4SC@ISWC
+32104,IEEE Design & Test
+32105,EuCNC
+32106,ISESS
+32107,SoftCOM
+32108,Automatisierungstechnik
+32109,Elektrotechnik und Informationstechnik
+32110,ConTEL
+32111,CBRecSys@RecSys
+32112,ICSH
+32113,PKAW
+32114,IJESDF
+32115,ICBO/BioCreative
+32116,Asymptotic Analysis
+32117,Inf. Services and Use
+32118,PACBB
+32119,;login:
+32120,SecDev
+32121,ICCSA (4)
+32122,DS-RT
+32123,IVCNZ
+32124,Health Information Science
+32125,Brain Informatics
+32126,Journal of Mathematical Imaging and Vision
+32127,IJSNM
+32128,ROSS@HPDC
+32129,Self-Aware Computing Systems
+32130,CODES+ISSS
+32131,AVSS
+32132,Synthesis Lectures on Software Engineering
+32133,Software and System Modeling
+32134,CD-MAKE
+32135,SEAA
+32136,ICEIS (2)
+32137,MODELS (Satellite Events)
+32138,SLE
+32139,FINREC
+32140,MobiWIS
+32141,Mobile!@SPLASH
+32142,DDI@WebSci
+32143,MobileDeLi
+32144,J. Informetrics
+32145,DBPL
+32146,ISIE
+32147,RoboSoft
+32148,ICORR
+32149,ICTAI
+32150,AISC
+32151,APWeb/WAIM Workshops
+32152,ICFHR
+32153,IJDAR
+32154,J. Internet Serv. Inf. Secur.
+32155,FNC/MobiSPC
+32156,ICGEC (1)
+32157,ICSE (SEIP)
+32158,Internetware
+32159,ACM SIGSOFT Software Engineering Notes
+32160,ACM Trans. Softw. Eng. Methodol.
+32161,MSR
+32162,IIT
+32163,CBI (1)
+32164,WOOT @ USENIX Security Symposium
+32165,IJCC
+32166,IHTC
+32167,ISORC
+32168,CASCON
+32169,CLOUDNET
+32170,ISSPIT
+32171,ACM Trans. Management Inf. Syst.
+32172,OTM Conferences
+32173,Lecture Notes in Business Information Processing
+32174,EDOC Workshops
+32175,ICNSC
+32176,InterIoT/SaSeIoT
+32177,IWSC@Middleware
+32178,WABI
+32179,VISIGRAPP (3: IVAPP)
+32180,PacificVis
+32181,SIGGRAPH Asia Symposium on Visualization
+32182,VINCI
+32183,ICFEM
+32184,DCOSS
+32185,PRDC
+32186,ICC Workshops
+32187,IET Image Processing
+32188,J. UCS
+32189,AMCIS
+32190,BICS
+32191,ICCSA (6)
+32192,QRS Companion
+32193,IJCINI
+32194,Language and Linguistics Compass
+32195,ICFEC
+32196,VEE
+32197,WISA
+32198,ACM Great Lakes Symposium on VLSI
+32199,ICCCS (2)
+32200,Medical Imaging: Image Perception Observer Performance and Technology Assessment
+32201,WODES
+32202,Big Data over Networks
+32203,MICCAI (1)
+32204,PRIMA
+32205,MMArt&ACM@ICMR
+32206,LVA/ICA
+32207,IWAENC
+32208,CANDAR
+32209,ICPE Companion
+32210,QUDOS@ISSTA
+32211,Optimization Letters
+32212,MWSCAS
+32213,Discrete Math. Alg. and Appl.
+32214,CBMI
+32215,IJMLO
+32216,Int. J. Neural Syst.
+32217,IC3D
+32218,KSEM (1)
+32219,PRCV (2)
+32220,RealWSN@SenSys
+32221,TASE
+32222,Visual Information Processing and Communication
+32223,Cryptography and Communications
+32224,Educational Technology & Society
+32225,IJMR
+32226,IJNVO
+32227,Microprocessors and Microsystems - Embedded Hardware Design
+32228,CBS
+32229,ICCABS
+32230,ICCP
+32231,ICETC
+32232,IFIP TC12 ICIS
+32233,CONFENIS
+32234,PDCAT
+32235,PSIVT Workshops
+32236,MECOMM@SIGCOMM
+32237,APJOR
+32238,IET Circuits Devices & Systems
+32239,IJTM
+32240,Integration
+32241,ATVA
+32242,IDEAL
+32243,INDIN
+32244,WMNC
+32245,I. J.  Computational Biology and Drug Design
+32246,Library Hi Tech
+32247,ASRU
+32248,CFI
+32249,DRCN
+32250,ICDIP
+32251,IEEM
+32252,ISICA
+32253,ISLPED
+32254,ISPD
+32255,Int. J. Intell. Syst.
+32256,MediaEval
+32257,Int. Arab J. Inf. Technol.
+32258,Int J. Information Management
+32259,J. of IT & Tourism
+32260,J. of Management Information Systems
+32261,ENTER
+32262,WHICEB
+32263,Online Information Review
+32264,J. Information Systems
+32265,PAISI
+32266,Computing and Informatics
+32267,NetSci-X
+32268,ECBS-EERC
+32269,ICSE (2)
+32270,TrustCom/BigDataSE/ISPA (2)
+32271,CISIS
+32272,ISDDC
+32273,Information Visualization
+32274,Healthcare Data Analytics
+32275,FPT
+32276,Enterprise Modelling and Information Systems Architectures
+32277,TOS
+32278,PPoPP
+32279,Advances in Engineering Software
+32280,IJCSM
+32281,J. Reliable Intelligent Environments
+32282,J. Strategic Inf. Sys.
+32283,ICCAE
+32284,ICCCS (5)
+32285,ICISO
+32286,PRCV (3)
+32287,PRCV (1)
+32288,BIBE
+32289,NaNA
+32290,Cyberpsy. Behavior and Soc. Networking
+32291,IJSS
+32292,J. Org. Computing and E. Commerce
+32293,IEEE Trans. Consumer Electronics
+32294,CCIS
+32295,VSS
+32296,Int. J. General Systems
+32297,IJSNet
+32298,BMEI
+32299,ISCA
+32300,GetMobile
+32301,APIA
+32302,Informatics
+32303,IEA/AIE (2)
+32304,Math. Meth. of OR
+32305,FDL
+32306,SIAM J. Imaging Sciences
+32307,ICONIP (6)
+32308,IFTC
+32309,NORCAS
+32310,Comp. Opt. and Appl.
+32311,Optimization Methods and Software
+32312,VLSIC
+32313,JCP
+32314,ICCDA
+32315,ISAAC
+32316,GeoRich@SIGMOD
+32317,INISTA
+32318,Evolutionary Computation
+32319,MLHC
+32320,Integrated Computer-Aided Engineering
+32321,IJBIC
+32322,LSSC
+32323,ICALP (1)
+32324,SummerSim
+32325,Handbook of Computational Social Choice
+32326,Information Systems Research
+32327,Marketing Science
+32328,ALTA
+32329,Multimodal Location Estimation of Videos and Images
+32330,EthNLP@EACL
+32331,ICIOT
+32332,AIMS@SERVICES
+32333,TRUST@AAMAS
+32334,JORS
+32335,Oper. Res. Lett.
+32336,MIPR
+32337,CHASE
+32338,ISBRA
+32339,Earth Observing Systems
+32340,BRACIS
+32341,CMSB
+32342,ICMAI
+32343,SOHOMA
+32344,ICTC
+32345,ADKDD@KDD
+32346,Speech Communication
+32347,ISCSLP
+32348,SIGHAN@IJCNLP
+32349,APCCM
+32350,ACCV (4)
+32351,GeNeMe
+32352,SpringSim (HPS)
+32353,HASE
+32354,CAMAD
+32355,IJMIC
+32356,CISS
+32357,LCN Workshops
+32358,Foundations and Trends in Electronic Design Automation
+32359,CrownCom
+32360,NTMS
+32361,Urb-IoT
+32362,IJCAT
+32363,WHISPERS
+32364,DSN Workshops
+32365,CCKS Tasks
+32366,ECCV (9)
+32367,ACM Trans. Comput. Log.
+32368,SE/SWM
+32369,ETRA
+32370,FairWare@ICSE
+32371,CBMS
+32372,FCA4AI@ECAI
+32373,ECIS
+32374,NordiCHI
+32375,Datenschutz und Datensicherheit
+32376,Int. J. Approx. Reasoning
+32377,SSN-TC/OrdRing@ISWC
+32378,AI Commun.
+32379,From Database to Cyber Security
+32380,Theory and Models for Cyber Situation Awareness
+32381,SUM
+32382,Terrorism Security and Computation
+32383,Data Management in Pervasive Systems
+32384,Advances in Information Security
+32385,Inf. Wiss. & Praxis
+32386,Online Social Networks and Media
+32387,Wiki@ICWSM
+32388,WiNTECH@MobiCom
+32389,MCS@MobiCom
+32390,Math. Program.
+32391,Internet Mathematics
+32392,Handbook of Big Data
+32393,IEEE Trans. Information Theory
+32394,ChineseCSCW
+32395,AI EDAM
+32396,EISIC
+32397,ChinaCom (1)
+32398,IDC
+32399,INTERACT (2)
+32400,Tangible and Embedded Interaction
+32401,ECMS
+32402,DMRS
+32403,DSD
+32404,FutureMobileUI@MobiSys
+32405,IEEE Micro
+32406,SpringSim (HPC)
+32407,MONAMI
+32408,Handbook of Big Data Technologies
+32409,Handbook on Data Centers
+32410,EuroPLoP
+32411,BPMDS/EMMSAD@CAiSE
+32412,ICSA
+32413,CBSE
+32414,CLOSER (2)
+32415,MoDELS
+32416,WICSA
+32417,CLOSER
+32418,ECSA
+32419,Transactions on Pattern Languages of Programming
+32420,Health Informatics Journal
+32421,ICEIS (Revised Selected Papers)
+32422,QTOP@NetSys
+32423,CIoT
+32424,CLOSER (Selected Papers)
+32425,Cloud Forward
+32426,WEBIST (1)
+32427,ZEUS
+32428,Handbook on Business Process Management (1)
+32429,ICCI*CC
+32430,FMEC
+32431,SDS
+32432,The Essence of Software Engineering
+32433,IISSC/CN4IoT
+32434,COMPLEXIS
+32435,ICSOFT-EA
+32436,Smart-CT
+32437,EAI Endorsed Trans. Collaborative Computing
+32438,UCUI@CIKM
+32439,PESOS@ICSE
+32440,Green in Software Engineering
+32441,Logic Journal of the IGPL
+32442,J. Log. Comput.
+32443,Front. Neurorobot.
+32444,NWSearch@CIKM
+32445,GECCO
+32446,ASWEC (2)
+32447,Big Data - Algorithms Analytics and Applications
+32448,DS
+32449,MALWARE
+32450,QoMEX
+32451,VizSEC
+32452,HAICTA
+32453,ICAIIC
+32454,IJRIS
+32455,Physical Communication
+32456,Int. J. Systems Assurance Engineering and Management
+32457,SIAM Journal of Applied Mathematics
+32458,CoDIT
+32459,IOLTS
+32460,Middleware Industry
+32461,TVX
+32462,EuroVA@EuroVis
+32463,IJDCF
+32464,IEEE Trans. Control of Network Systems
+32465,CSS
+32466,ICCSA (2)
+32467,Edutainment
+32468,GameSec
+32469,INCoS
+32470,VRCAI
+32471,IJAHUC
+32472,CAD/Graphics
+32473,MMAR
+32474,ECCV (16)
+32475,IT Professional
+32476,INTERACT (4)
+32477,BIC-TA (1)
+32478,BIC-TA
+32479,IJMSTR
+32480,J. Intelligent Systems
+32481,Glottometrics
+32482,ECCV (10)
+32483,SAMOS
+32484,Int. J. Comput. Math.
+32485,J. Simulation
+32486,Kybernetes
+32487,Journal of Quantitative Linguistics
+32488,CloudComp
+32489,TSA
+32490,AMBN@JSAI-isAI
+32491,UKSim
+32492,HotPlanet@MobiCom
+32493,ExploreDB@SIGMOD/PODS
+32494,DySPAN
+32495,ECCV (14)
+32496,ECCV (13)
+32497,Parallel Computing
+32498,J. Optimization Theory and Applications
+32499,Vehicular Communications
+32500,Eurographics (Posters)
+32501,ICWL Workshops
+32502,International Journal of Uncertainty Fuzziness and Knowledge-Based Systems
+32503,Softw. Test. Verif. Reliab.
+32504,ICA3PP (Workshops)
+32505,GSKI (2)
+32506,ISMAR Adjunct
+32507,UCC (Companion")
+32508,MED
+32509,DRR
+32510,Int. J. Semantic Computing
+32511,WiOpt
+32512,BIRNDL@SIGIR (1)
+32513,BIRNDL@JCDL
+32514,Journal of Software: Evolution and Process
+32515,PROFES
+32516,NEW2AN
+32517,CAIS
+32518,ACII
+32519,PEOPLES@COLING
+32520,Propagation Phenomena in Real World Networks
+32521,EventStory@Coling
+32522,NKOS@TPDL
+32523,NLPmJ@EMNLP
+32524,J. Exp. Theor. Artif. Intell.
+32525,CoCo@NIPS
+32526,WFCS
+32527,HPSR
+32528,SIGGRAPH ASIA Mobile Graphics and Interactive Applications
+32529,ICCST
+32530,SiPS
+32531,SC²
+32532,IWDW
+32533,Applied Mathematics and Computer Science
+32534,CIT
+32535,DARTS
+32536,CP
+32537,Haskell
+32538,SP/SPE
+32539,ER Workshops
+32540,MIE
+32541,Procesamiento del Lenguaje Natural
+32542,CERI
+32543,ICALP (2)
+32544,ICST Trans. Security Safety
+32545,ESSoS
+32546,Healthcom
+32547,ICDS
+32548,ECCV Workshops (6)
+32549,ISPE CE
+32550,IST
+32551,AVEC@MM
+32552,Big-DAMA@SIGCOMM
+32553,ITITS (1)
+32554,NFMCP
+32555,SIGSPATIAL PhD Symposium
+32556,SpaCCS Workshops
+32557,CEJOR
+32558,WAIM Workshops
+32559,Bildverarbeitung für die Medizin
+32560,AIMS
+32561,CoNLL Shared Task (1)
+32562,FSMNLP
+32563,SIGMORPHON
+32564,FCST
+32565,Louhi@EMNLP
+32566,Wireless Power Transfer Algorithms Technologies and Applications in Ad Hoc Communication Networks
+32567,DanaC@SIGMOD
+32568,RAIT
+32569,IberEval@SEPLN
+32570,IJCNLP (Shared Tasks)
+32571,MultiLingMine@ECIR
+32572,FIRE Workshop
+32573,FIRE Workshops
+32574,ReTIS
+32575,S+SSPR
+32576,Cybersecurity
+32577,J. Computer Virology and Hacking Techniques
+32578,MTD@CCS
+32579,IJICS
+32580,SafeConfig@CCS
+32581,Intelligent Methods for Cyber Warfare
+32582,IDEAL (2)
+32583,IJBPIM
+32584,SITIS
+32585,MEDES
+32586,IJSSOE
+32587,Ingénierie des Systèmes d'Information
+32588,NETYS
+32589,CFIP/NOTERE
+32590,ACM Crossroads
+32591,Foundations and Trends in Human-Computer Interaction
+32592,SIGCSE Bulletin
+32593,Inroads
+32594,BDIOT
+32595,IJBM
+32596,J. Comb. Theory Ser. A
+32597,BSN
+32598,RWS
+32599,MobileHealth@MobiHoc
+32600,J. Information Science
+32601,SAAM@ISWC
+32602,SR+SWIT@ISWC
+32603,LISC@ISWC
+32604,SemStats@ISWC
+32605,Adaptive Behaviour
+32606,ECCV (6)
+32607,ICCSCE
+32608,Mobidata@MobiHoc
+32609,JSW
+32610,MCSoC
+32611,VR
+32612,BMSB
+32613,KMO
+32614,Big-O(Q)/DMAH@VLDB
+32615,MLDM
+32616,MPRSS
+32617,APSEC Workshops
+32618,ASE Workshops
+32619,ACL (5)
+32620,RoboNLP@ACL
+32621,EVENTS@HLT-NAACL
+32622,Anaphora Resolution - Algorithms Resources and Applications
+32623,CoNLL Shared Task
+32624,EURASIP J. Bioinformatics and Systems Biology
+32625,ACCV (3)
+32626,AVEC@ACM Multimedia
+32627,FE@NIPS
+32628,IJEA
+32629,Data Techn. and Applic.
+32630,SIAM J. Numerical Analysis
+32631,Math. Comput.
+32632,IJMC
+32633,EJC
+32634,ICSDM
+32635,CoPDA@IS-EUD
+32636,KSE
+32637,IPSJ Trans. Computer Vision and Applications
+32638,ISVC (2)
+32639,FIRE
+32640,Nano Comm. Netw.
+32641,SECON Workshops
+32642,LINKDEM@IJCAI
+32643,ICT
+32644,Fuzzy Sets and Systems
+32645,CORIA-CIFED
+32646,Document Numérique
+32647,FASE
+32648,The Art of Structuring
+32649,DB&IS
+32650,CAiSE Workshops
+32651,GraMSec@FLoC
+32652,ICSSP
+32653,RuleML+RR
+32654,Business & Information Systems Engineering
+32655,Formal Asp. Comput.
+32656,GraMSec@CSF
+32657,Sideways@HT
+32658,WS-FM
+32659,The Complete Business Process Handbook Vol. I
+32660,IJCLCLP
+32661,Journal of Computational Neuroscience
+32662,IEEE Trans. Haptics
+32663,ICBC
+32664,SIAM J. Math. Analysis
+32665,HCI (10)
+32666,ICIG (1)
+32667,ITNAC
+32668,MIUA
+32669,MoWNet
+32670,IJSPM
+32671,Mathematical Social Sciences
+32672,ACCV Workshops (2)
+32673,MobiWac
+32674,ACM Comm. Computer Algebra
+32675,ICSPCS
+32676,PERSUASIVE
+32677,J. Hardware and Systems Security
+32678,LATS
+32679,VDAT
+32680,ICCS (2)
+32681,J. Network Syst. Manage.
+32682,NCCET
+32683,ACI
+32684,ACE
+32685,Advances in Computer Entertainment
+32686,ICIDS
+32687,HUMANIZE@IUI
+32688,MUSA2@MM
+32689,Large-Scale Visual Geo-Localization
+32690,MMCommons@ACM Multimedia
+32691,MMHealth@MM
+32692,ImmersiveME@ACM Multimedia
+32693,i-com
+32694,AutomotiveUI
+32695,HealthMedia@MM
+32696,PerDis
+32697,SAP
+32698,SUI
+32699,HCSE/HESSD
+32700,Mensch & Computer
+32701,MMHealth@ACM Multimedia
+32702,EAI Endorsed Trans. Energy Web
+32703,IxD&A
+32704,MuVer@MM
+32705,IHC
+32706,Guide to Ambient Intelligence in the IoT Environment
+32707,EAI Endorsed Trans. Context-aware Syst. & Appl.
+32708,ASSRI
+32709,Intelligent Decision Support Systems for Sustainable Computing
+32710,LWDA
+32711,EC-Web
+32712,TOCE
+32713,WEBIST (Revised Selected Papers)
+32714,Front. Neuroinform.
+32715,ISSI
+32716,MMVR
+32717,ACM Journal of Experimental Algorithmics
+32718,LPAR
+32719,SEA
+32720,CSL
+32721,IPCO
+32722,Bulletin of the EATCS
+32723,STACS
+32724,ICPP Workshops
+32725,Semantic Audio
+32726,HPDC (Posters/Doctoral Consortium)
+32727,AAAI Workshop: Computational Sustainability
+32728,Handbook of Dynamic Data Driven Applications Systems
+32729,SIMBig (Revised Selected Papers)
+32730,Proceedings of Machine Learning Research
+32731,Visual Informatics
+32732,Nature
+32733,The Review of Socionetwork Strategies
+32734,PAC
+32735,IJDWM
+32736,UIC/ATC/ScalCom/CBDCom/IoP/SmartWorld
+32737,Trans. Emerging Telecommunications Technologies
+32738,NetEcon@SIGMETRICS
+32739,Interfaces
+32740,WAW
+32741,ISAIM
+32742,Int. J. Game Theory
+32743,IET Software
+32744,ICTCE
+32745,Journal of Approximation Theory
+32746,IWBBIO
+32747,Computation
+32748,JIKM
+32749,WPA@MobiSys
+32750,New Media & Society
+32751,Statistics and Computing
+32752,ACM Trans. Math. Softw.
+32753,HCI (20)
+32754,Annales des Télécommunications
+32755,HCI (29)
+32756,Cognition Technology & Work
+32757,GHTC
+32758,HCI (2)
+32759,VLSI-SoC
+32760,NEWCAS
+32761,Int. J. Image Graphics
+32762,ICCCS (4)
+32763,IH&MMSec
+32764,WIFS
+32765,IIH-MSP
+32766,CCTA
+32767,J. Mobile Multimedia
+32768,LIMITS
+32769,QA@ACL
+32770,UMCit@KDD
+32771,SmartObjects@MobiCom
+32772,APSys
+32773,ISDA
+32774,RECOMB
+32775,LADC
+32776,Influence and Behavior Analysis in Social Networks and Social Media
+32777,Digital Investigation
+32778,OJDB
+32779,HistoInformatics@CIKM
+32780,SLT
+32781,OASICS
+32782,RuleML+RR (Supplement)
+32783,SIGLOG News
+32784,Challenge+DC@RuleML
+32785,CoNLL Shared Task (2)
+32786,CSOS (2)
+32787,SE4Science@ICSE
+32788,AFEL@EC-TEL
+32789,ICEGOV
+32790,ARTEL@EC-TEL
+32791,EDUCON
+32792,BlackMirror@ISWC
+32793,Open Data for Education
+32794,USEWOD-PROFILES@ESWC
+32795,LDQ@ESWC
+32796,MobiGames@MobiSys
+32797,DILS
+32798,EC-TEL (Practitioner Proceedings)
+32799,GRADES/NDA@SIGMOD/PODS
+32800,EKM@EKAW
+32801,iJEP
+32802,BDC
+32803,EvoMUSART
+32804,RSP+QuWeDa@ESWC
+32805,GSCL
+32806,AALTD@PKDD/ECML
+32807,DMNLP@PKDD/ECML
+32808,SEAMS@ICSE
+32809,LWA
+32810,MISNC
+32811,CSCloud/EdgeCom
+32812,ICLP (Technical Communications)
+32813,SmartBlock
+32814,FLAP
+32815,CEEC
+32816,ESEM
+32817,BIVPCS/POCUS@MICCAI
+32818,SIGCOMM Posters and Demos
+32819,Advances in Adaptive Data Analysis
+32820,Journal of Computational Biology
+32821,Discussiones Mathematicae Graph Theory
+32822,ITITS (2)
+32823,DISCS@SC
+32824,BDCloud
+32825,Internet-QoE@SIGCOMM
+32826,Front. Digital Humanities
+32827,J. Graph Algorithms Appl.
+32828,CALDAM
+32829,BELIV
+32830,Graph Drawing
+32831,I4CS
+32832,AIIDE
+32833,EMMCVPR
+32834,Foundations and Trends in Web Science
+32835,Computational Sustainability
+32836,IVA
+32837,AIPR
+32838,ICC 2016
+32839,MCV@MICCAI
+32840,ACL (3)
+32841,WISCS@CCS
+32842,Immersive Analytics
+32843,BDVA
+32844,SDA@TPDL
+32845,COMPSAC (Stephen S. Yau Academic Symposium)
+32846,COUFLESS@ICSE
+32847,MET@ICSE
+32848,HiPC
+32849,Cognitive Systems Research
+32850,COMPLEX NETWORKS
+32851,I3D
+32852,Cloud Computing 2nd Ed.
+32853,HPGP@HPDC
+32854,X10@PLDI
+32855,WAPI@ICSE
+32856,ASE @ USENIX Security Symposium
+32857,IEEE Communications Standards Magazine
+32858,LISA
+32859,Neuroinformatics
+32860,ICCL
+32861,Poly/DMAH@VLDB
+32862,DOLAP
+32863,KES Journal
+32864,Applied Artificial Intelligence
+32865,GEOINFO
+32866,SBAC-PAD
+32867,SIBGRAPI
+32868,MDM (2)
+32869,SBRC
+32870,RCIS
+32871,DATA (Revised Selected Papers)
+32872,HPCS
+32873,DAMDID/RCDL
+32874,DAMDID/RCDL (Selected Papers)
+32875,BeyondMR@SIGMOD
+32876,WSP/WOMoCoE@ISWC
+32877,BIS (Workshops)
+32878,TISHW
+32879,SLATE
+32880,PROPOR
+32881,EPIA
+32882,PARCO
+32883,IIR
+32884,NLPLOD@RANLP
+32885,Auton. Robots
+32886,Techn. Analysis & Strat. Manag.
+32887,IET Wireless Sensor Systems
+32888,IJSI
+32889,SEHS@ICSE
+32890,ITST
+32891,PCM (3)
+32892,Annals of GIS
+32893,IET Information Security
+32894,ICN
+32895,SIGGRAPH ASIA VR Showcase
+32896,WOOT
+32897,HASP@ISCA
+32898,ECCV (12)
+32899,CoVieW@MM
+32900,Context-Enhanced Information Fusion
+32901,IPMI
+32902,RACS
+32903,Adv. Artificial Intellegence
+32904,Numerische Mathematik
+32905,Organization Science
+32906,ACA
+32907,Issues in Quantitative Linguistics 4 (Dedicated to Reinhard Köhler on the occasion of his 65th birthday)
+32908,Color Imaging: Displaying Processing Hardcopy and Applications
+32909,Decision Sciences
+32910,JETC
+32911,Image Processing: Algorithms and Systems
+32912,IJMSO
+32913,J. Discrete Algorithms
+32914,Mathematics in Computer Science
+32915,JCSE
+32916,IWOCA
+32917,Social Network Based Big Data Analysis and Applications
+32918,STACOM@MICCAI
+32919,SECRYPT
+32920,LADaS@VLDB
+32921,ECSQARU
+32922,ILP (Late Breaking Papers)
+32923,EGC (best of volume)
+32924,Revue d'Intelligence Artificielle
+32925,Revue Internationale de Géomatique
+32926,MultiTemp
+32927,AALTD@PKDD/ECML (Revised Selected Papers)
+32928,ICDSST
+32929,IJAT
+32930,CC-TEL/TACKLE@EC-TEL
+32931,3DUI
+32932,CrossLAK
+32933,Graphical Models
+32934,J. Phonetics
+32935,Multiagent and Grid Systems
+32936,ITITS
+32937,IWBBIO (1)
+32938,DLMIA/ML-CDS@MICCAI
+32939,SPLC (2)
+32940,ISSAC
+32941,LSMS/ICSEE (2)
+32942,SPLC (A)
+32943,BMC Genomics
+32944,TAP
+32945,ICCSIP
+32946,ICVES
+32947,Finite Fields and Their Applications
+32948,Phonetica
+32949,ICPhS
+32950,ISVLSI
+32951,MeMeA
+32952,NVMSA
+32953,CTW
+32954,J. Comm. Inform. Networks
+32955,Perform. Eval.
+32956,GIIS
+32957,MLSA@PKDD/ECML
+32958,TMA
+32959,WONS
+32960,Culture Computing
+32961,IJCRS (2)
+32962,Artif. Intell. Research
+32963,Adv. in Math. of Comm.
+32964,ICCSP
+32965,Applied Categorical Structures
+32966,5G World Forum
+32967,ECCV Workshops (4)
+32968,ICECS
+32969,ISOCC
+32970,WTS
+32971,J. London Math. Society
+32972,5GWN
+32973,ICFPT
+32974,ICCMS
+32975,SimuTools
+32976,Gesture Recognition
+32977,Arch. Math. Log.
+32978,IJAMC
+32979,IJMCMC
+32980,IJMSSC
+32981,IJSSCI
+32982,FDTC
+32983,GRMSE (1)
+32984,ICESS
+32985,Living Machines
+32986,SIGGRAPH Asia Posters
+32987,SINC
+32988,MRDM@ECIR
+32989,MACIS
+32990,DIVANet@MSWiM
+32991,RiTA
+32992,ESOCC Workshops
+32993,COSH/VisorHPC@HiPEAC
+32994,PETRA
+32995,MAICS
+32996,LocalRec@SIGSPATIAL
+32997,Solving Large Scale Learning Tasks
+32998,MUD@ICML
+32999,EG-ICE
+33000,SpaCCS
+33001,SoSE
+33002,IET Biometrics
+33003,WSC
+33004,BIH
+33005,ICINCO (Selected Papers)
+33006,ICPC
+33007,Advances in Computers
+33008,MASA
+33009,SBST@ICSE
+33010,AST@ICSE
+33011,RWDSL@CGO
+33012,RC
+33013,Quantum Information & Computation
+33014,HPEC
+33015,ADMS/IMDM@VLDB
+33016,CW
+33017,J. Clinical Bioinformatics
+33018,SMBM
+33019,COLD
+33020,eBISS
+33021,NAACL-HLT (Demonstrations)
+33022,SIAM Review
+33023,MIE@ICMI
+33024,CCCV (3)
+33025,ADMS@VLDB
+33026,ICGT
+33027,Domain Adaptation in Computer Vision Applications
+33028,ECCV Workshops (3)
+33029,Humanoids
+33030,IJCNLP (Tutorial Abstracts)
+33031,Rep4NLP@ACL
+33032,IJCVR
+33033,Learned Publishing
+33034,BCI
+33035,ALGOCLOUD
+33036,TechDebt@ICSE
+33037,IWSM-Mensura
+33038,Open Computer Science
+33039,Journal of Object Technology
+33040,EFMI-STC
+33041,ICT-EurAsia/CONFENIS
+33042,AAAI Workshop: Expanding the Boundaries of Health Informatics Using AI
+33043,J. Cybersecurity
+33044,HCI (19)
+33045,Information Security Journal: A Global Perspective
+33046,SEM4HPC@HPDC
+33047,EAI Endorsed Trans. Creative Technologies
+33048,SCC@AsiaCCS
+33049,EURASIP J. Audio Speech and Music Processing
+33050,ESSCIRC
+33051,SDF
+33052,HVEI
+33053,TACAS (1)
+33054,FMCAD
+33055,LCTES
+33056,SYNT@CAV
+33057,Dependable Software Systems Engineering
+33058,Electr. J. Comb.
+33059,SCAM
+33060,WASPAA
+33061,Scalable Computing: Practice and Experience
+33062,ICST Workshops
+33063,J. AIS
+33064,Recommendation and Search in Social Networks
+33065,ICDEc
+33066,CSEDU (1)
+33067,CSEDU (Selected Papers)
+33068,MetaSel@PKDD/ECML
+33069,FOCI @ USENIX Security Symposium
+33070,E-VOTE-ID
+33071,CyberICS/WOS-CPS@ESORICS
+33072,VOTE-ID
+33073,SIGMOD PhD Symposium
+33074,AAMAS Workshops (Selected Papers)
+33075,IEEE Trans. Cogn. Comm. & Networking
+33076,FDIA
+33077,ACII Workshops
+33078,AffComp@IJCAI
+33079,AAIM
+33080,ITcon
+33081,RoboCup
+33082,Journal of Geographical Systems
+33083,J. Semantics
+33084,EIT
+33085,LAW@ACL
+33086,iPRES
+33087,CHANTS@MobiCom
+33088,AAAI Workshop: WWW and Population Health Intelligence
+33089,ISCO
+33090,IWGS@SIGSPATIAL
+33091,AI*CH@AI*IA
+33092,IWCTS@SIGSPATIAL
+33093,NVMTS
+33094,MMSports@MM
+33095,Multimedia Data Mining and Analytics
+33096,ReQuEST@ASPLOS
+33097,MAPL@PLDI
+33098,TIML@ISCA
+33099,WEBIST (2)
+33100,DCC
+33101,ACM Trans. Social Computing
+33102,Mechatronic Systems and Control
+33103,HCI (4)
+33104,Trans. Computational Collective Intelligence
+33105,Personal Multimedia Preservation
+33106,Softwaretechnik-Trends
+33107,BIRTE
+33108,RuSSIR
+33109,PAP@PKDD/ECML
+33110,ArgMining@EMNLP
+33111,EACL (Software Demonstrations)
+33112,ArgMining@HLT-NAACL
+33113,IEEE Trans. Signal and Information Processing over Networks
+33114,APRES
+33115,IoPARTS@MobiSys
+33116,Adv. Software Engineering
+33117,CMCSN
+33118,IWINAC (2)
+33119,NordSec
+33120,SCOPE@CPSWeek
+33121,HBU
+33122,MATES@VLDB
+33123,SoGood@ECML-PKDD
+33124,Advances in Intelligent Systems and Computing
+33125,eHealth
+33126,DMAH@VLDB
+33127,CRV
+33128,ISNCC
+33129,ISVC
+33130,Int. J. of Applied Metaheuristic Computing
+33131,IWSDA
+33132,PhyCS
+33133,International Journal of Computational Intelligence and Applications
+33134,IJHISI
+33135,RAIRO - Theor. Inf. and Applic.
+33136,Hot Chips Symposium
+33137,IAS Annual Meeting
+33138,InterOSS@IoT
+33139,VLSI Circuits
+33140,IFSA-EUSFLAT
+33141,RAM/CIS
+33142,J. Integrated Design & Process Science
+33143,J. Global Optimization
+33144,NLP-TEA@IJCNLP
+33145,KHD@IJCAI
+33146,Kaleidoscope
+33147,Trans. Data Privacy
+33148,Texts in Computer Science
+33149,AISec@CCS
+33150,ACM Trans. Program. Lang. Syst.
+33151,ICE/ITMC
+33152,QuASoQ/TDA@APSEC
+33153,EAI Endorsed Trans. Indust. Netw. & Intellig. Syst.
+33154,J. Applied Logic
+33155,Journal of Graph Theory
+33156,J. Knowledge Management
+33157,FCV
+33158,IWOST-2
+33159,IWOST-1
+33160,RTNS
+33161,PAKDD (Workshops)
+33162,CLPsych@NAACL-HTL
+33163,Document Recognition and Retrieval
+33164,DMSVIVA
+33165,SIGGRAPH Posters
+33166,AfriCHI
+33167,NEWS@ACL
+33168,BEA@EMNLP
+33169,CLfL@NAACL-HLT
+33170,CHI PLAY
+33171,Studies on the Semantic Web
+33172,IJIDE
+33173,ADHS
+33174,IEEE Trans. Games
+33175,BlackboxNLP@EMNLP
+33176,SwissText
+33177,VL@EACL
+33178,COMMONSENSE
+33179,LT4DH@COLING
+33180,BIOINFORMATICS
+33181,EAMT
+33182,SLAM@ACM Multimedia
+33183,SEFAIAS@ICSE
+33184,IHM
+33185,SSN@ISWC
+33186,WMT (shared task)
+33187,DSH
+33188,IC
+33189,RecTour@RecSys
+33190,#Microposts
+33191,SAVE-SD@WWW
+33192,EGOSE
+33193,ICE-B
+33194,RuleML (Supplement)
+33195,COLD@ISWC
+33196,NoISE@ESWC
+33197,J. Multimodal User Interfaces
+33198,CICSyN
+33199,GRAPP
+33200,IoT 360 (2)
+33201,SGAMES
+33202,CWSN
+33203,HLDVT
+33204,MBMV
+33205,MEMOCODE
+33206,SyDe Summer School
+33207,VMCAI
+33208,ISMAR
+33209,ICIAR
+33210,FORTE
+33211,FoSSaCS
+33212,NFM
+33213,SPNLP@EMNLP
+33214,J. Cryptographic Engineering
+33215,TrustED@CCS
+33216,ICMB
+33217,BIOSIGNALS
+33218,Handbook of Mobile Data Privacy
+33219,Emotions and Personality in Personalized Services
+33220,DigitalBioMarker@MobiSys
+33221,IML
+33222,NetSys
+33223,CHANTS@MOBICOM
+33224,Reproducibility@SIGCOMM
+33225,I. J. Law and Information Technology
+33226,INC
+33227,J. Heuristics
+33228,AINTEC
+33229,IFIPTM
+33230,DIYNetworking@MobiSys
+33231,AIR
+33232,LATIN
+33233,FSTTCS
+33234,I. J. Humanoid Robotics
+33235,J. Low Power Electronics
+33236,ARITH
+33237,IoTBDS
+33238,VRIPHYS
+33239,Int. J. Found. Comput. Sci.
+33240,AniNex
+33241,ICSCA
+33242,Finance and Stochastics
+33243,BioRob
+33244,GRMSE (2)
+33245,HSI
+33246,IVS
+33247,EMS
+33248,ICB
+33249,O-COCOSDA/CASLRE
+33250,CTIC
+33251,Symposium on Computational Geometry
+33252,SIGARCH Computer Architecture News
+33253,Order
+33254,FUN
+33255,MFCS (1)
+33256,ETAA@ESORICS
+33257,TinyToCS
+33258,WOP@ISWC
+33259,AI4KM@IJCAI
+33260,Advances in Knowledge Representation Logic Programming and Abstract Argumentation
+33261,ICFCA
+33262,FCA4AI@IJCAI
+33263,IWBIS
+33264,Ontology Engineering with Ontology Design Patterns
+33265,WOP
+33266,Diversity++@ISWC
+33267,FOIS
+33268,NeSy
+33269,CIARP
+33270,Publications
+33271,HotMiddlebox@SIGCOMM
+33272,EdgeSys@MobiSys
+33273,IOSec@RAID
+33274,BADGERS@RAID
+33275,e-Democracy
+33276,EUROSEC
+33277,REFSQ Workshops
+33278,EuroSec@EuroSys
+33279,WISTP
+33280,Trans. Edutainment
+33281,Middleware (Tutorials)
+33282,Middleware (Posters)
+33283,SERIAL@Middleware
+33284,ACTIVE@Middleware
+33285,Middleware Posters and Demos
+33286,D-A-CH EI
+33287,Formal Methods in System Design
+33288,CAV (1)
+33289,NL4AI@AI*IA
+33290,AIC
+33291,ISMM
+33292,ACM Trans. Comput. Syst.
+33293,PLOS@SOSP
+33294,iJIM
+33295,WearSys@MobiSys
+33296,ATC@MobiCom
+33297,VNC
+33298,FEAST@CCS
+33299,SMERP@ECIR
+33300,HT (Extended Proceedings)
+33301,IJIIT
+33302,IJISSCM
+33303,CyberSafety@CIKM
+33304,P2P
+33305,OST@ICDAR
+33306,ICON
+33307,LaTiCE
+33308,GIL Jahrestagung
+33309,KBNets@SIGCOMM
+33310,International Teletraffic Congress
+33311,PEOPLES@NAACL-HTL
+33312,HAIS
+33313,IoTofHealth@MobiSys
+33314,NetEcon@EC
+33315,CrossCloud@EuroSys
+33316,ISTC
+33317,Medical Imaging: Digital Pathology
+33318,IJHPSA
+33319,SOFL+MSVL
+33320,ICSI (3)
+33321,SIGITE
+33322,ITiCSE-WGR
+33323,CoRL
+33324,LaCATODA@IJCAI
+33325,CF
+33326,ReConFig
+33327,TRETS
+33328,SocialSens@CPSWeek
+33329,AAAI Workshop: AI for Smart Grids and Smart Buildings
+33330,PaCT
+33331,CSET @ USENIX Security Symposium
+33332,SysTEX@Middleware
+33333,ADF@KDD
+33334,Data Analytics
+33335,Theoretical Information Reuse and Integration
+33336,WAOA
+33337,ACHS@JCDL
+33338,Haifa Verification Conference
+33339,FABULOUS
+33340,SIGACT News
+33341,GeoLD-QuWeDa@ESWC
+33342,PROFILES@ESWC
+33343,BLINK@ISWC
+33344,New Horizons for a Data-Driven Economy
+33345,ESWC Developers Workshop
+33346,HSCMA
+33347,MIXDES
+33348,Des. Codes Cryptography
+33349,JRM
+33350,ICISP
+33351,ETS
+33352,aiDM@SIGMOD
+33353,Public Key Cryptography (1)
+33354,FOSAD
+33355,SCC@ASIACCS
+33356,EPiC Series in Computing
+33357,Human Factors
+33358,CPAIOR
+33359,Population Reconstruction
+33360,GamifIR@SIGIR
+33361,CLPsych@HLT-NAACL
+33362,EM-GIS@SIGSPATIAL
+33363,VaMoS
+33364,MT@CPSWeek
+33365,FMSEE&T@FM
+33366,SEsCPS@ICSE
+33367,IJDST
+33368,IoT 360 (1)
+33369,Progress in AI
+33370,CarSys@MobiCom
+33371,ACIIDS (2)
+33372,Cyber Warfare
+33373,Vorgehensmodelle
+33374,SASO
+33375,MODULARITY (Companion)
+33376,COP@ECOOP
+33377,Computer Supported Cooperative Work
+33378,Synthesis Lectures on Assistive Rehabilitative and Health-Preserving Technologies
+33379,Interacting with Computers
+33380,EUMAS/AT
+33381,SDN-NFV@CODASPY
+33382,IEEE J. Emerg. Sel. Topics Circuits Syst.
+33383,Queueing Syst.
+33384,ICSPS
+33385,ISSP
+33386,Robustness in Econometrics
+33387,J. Classification
+33388,SETE@ICWL
+33389,ICINCO (1)
+33390,ICSON
+33391,Financial Cryptography Workshops
+33392,CSCML
+33393,CCSW
+33394,CPS-SPC@CCS
+33395,CRYPTO (2)
+33396,Algorithms for Next-Generation Sequencing Data
+33397,LTA@MM
+33398,Cognitive Internet of Things
+33399,Trans. Computational Science
+33400,IET Computers & Digital Techniques
+33401,ICCIP
+33402,Handbook of Science and Technology Convergence
+33403,DSDIS
+33404,Advanced Information and Knowledge Processing
+33405,AAAI Workshop: AI for Transportation
+33406,Sentiment Analysis and Ontology Engineering
+33407,Synthesis Lectures on Information Security Privacy & Trust
+33408,Journal of Interconnection Networks
+33409,ISADS
+33410,ICITCS
+33411,Communication Research
+33412,IoTBD
+33413,SafeAI@AAAI
+33414,Multiple-Valued Logic and Soft Computing
+33415,OJIOT
+33416,Statistical Methods and Applications
+33417,CGI
+33418,Computers
+33419,SmartIoT@SEC
+33420,AH
+33421,IJDET
+33422,HCI (9)
+33423,HCI (30)
+33424,MindTrek
+33425,UCAmI (1)
+33426,Advances in Complex Systems
+33427,BIOIMAGING
+33428,Discrete Event Dynamic Systems
+33429,SSPREW@ACSAC
+33430,EdgeSys@EuroSys
+33431,ICGJ
+33432,EdgeTech@MobiCom
+33433,CSCN
+33434,REBLS@SPLASH
+33435,TFP
+33436,SysTEX@SOSP
+33437,STTT
+33438,IFL
+33439,BIOSIG
+33440,ICSA Companion
+33441,SEAD@ICSE
+33442,M4IoT@Middleware
+33443,ECSA (Companion)
+33444,CCB@EuroSys
+33445,FormaliSE@ICSE
+33446,ECASE@ICSE
+33447,ARM@Middleware
+33448,HumanSys@SenSys
+33449,State of the Art in AI Applied to Ambient Intelligence
+33450,Intelligent Environments
+33451,A-TEST@SIGSOFT FSE
+33452,TwinPeaks@ICSE
+33453,Middleware Doctoral Symposium
+33454,SYNASC
+33455,MLSP
+33456,ACM Trans. Model. Comput. Simul.
+33457,IEEE Trans. Network Science and Engineering
+33458,IOTAIS
+33459,IJICoT
+33460,Cognitive Science
+33461,I. J. Robotics Res.
+33462,HCI (23)
+33463,Ausgezeichnete Informatikdissertationen
+33464,3D Research Challenges in Cultural Heritage
+33465,Crowdsourcing and Human-Centered Experiments
+33466,MRS
+33467,PE-WASUN
+33468,Q2SWinet@MSWiM
+33469,WAIHCWS
+33470,SBESC
+33471,PE-WASUN@MSWiM
+33472,WMT@EMNLP
+33473,Systems & Control Letters
+33474,AMLTA
+33475,AsianHOST
+33476,CARDIS
+33477,ICICDT
+33478,ProvSec
+33479,Eur. J. Control
+33480,ACCV Workshops (3)
+33481,ICA3PP Workshops
+33482,J. Computational Design and Engineering
+33483,Adv. Fuzzy Systems
+33484,ICSE-SEIP
+33485,CSI-SE
+33486,SoMeT
+33487,RVSP
+33488,SIGGRAPH Asia Emerging Technologies
+33489,IJMA
+33490,J. Imaging
+33491,Advances in Computer Vision and Pattern Recognition
+33492,Information Economics and Policy
+33493,BIGDSE@ICSE
+33494,Multiscale Modeling & Simulation
+33495,ACCV (2)
+33496,SIAM J. Control and Optimization
+33497,Mobile Big Data
+33498,ICSE-SEET
+33499,HotPower@SOSP
+33500,ANALCO
+33501,SWAT
+33502,ICT-DM
+33503,SAS
+33504,SIGGRAPH Talks
+33505,I. J. RF Technol.: Res. and Appl.
+33506,BrainLes@MICCAI (2)
+33507,BrainLes@MICCAI (1)
+33508,PPAM (1)
+33509,IJIMAI
+33510,MobiGIS
+33511,TOCT
+33512,Computational Complexity
+33513,Grey Systems: T&A
+33514,ETCD@ASPLOS
+33515,GREC@ICDAR
+33516,WACV Workshops
+33517,SBLP
+33518,IFSA-SCIS
+33519,MODELS Workshops
+33520,HumL@ISWC
+33521,VLSI Design
+33522,TACAS
+33523,Foundations of Computational Mathematics
+33524,AAAI Workshop: WWW and Public Health Intelligence
+33525,VISAPP (2)
+33526,SEmotion@ICSE
+33527,FoIKS
+33528,ADT
+33529,ITC (1)
+33530,GAIA@SIGCOMM
+33531,SPECTS@SummerSim
+33532,IC3
+33533,IMPS@ESSoS
+33534,Ubiquity
+33535,Electronic Markets
+33536,BIRNDL@SIGIR
+33537,BIRNDL@SIGIR (2)
+33538,NLP-TEA@COLING
+33539,NLP-TEA@ACL/IJCNLP
+33540,JITR
+33541,GSI
+33542,E2DC@e-Energy
+33543,Text2Story@ECIR
+33544,ICMI (adjunct)
+33545,IWCS(2)
+33546,Synthesis Lectures on Human Language Technologies
+33547,JLCL
+33548,TM@CIKM
+33549,JCIS
+33550,Encyclopedia of Computer Graphics and Games
+33551,NetGames
+33552,NETGAMES
+33553,SocialSec
+33554,TGCN
+33555,J. Location Based Services
+33556,GIScience
+33557,COSIT
+33558,COSIT (Workshops/Posters)
+33559,LBSN@SIGSPATIAL/GIS
+33560,AGILE Conf.
+33561,J. Spatial Information Science
+33562,J. Aerospace Inf. Sys.
+33563,ISED
+33564,IJIPSI
+33565,LOD
+33566,SMARTGREENS
+33567,J. Symb. Comput.
+33568,ER Forum/Demos
+33569,T. Petri Nets and Other Models of Concurrency
+33570,ATAED@Petri Nets/ACSD
+33571,EMISA
+33572,IoT S&P@SIGCOMM
+33573,IWPE@SP
+33574,SysCon
+33575,CPM
+33576,WebNLG
+33577,Discrete & Computational Geometry
+33578,Topological and Statistical Methods for Complex Data Tackling Large-Scale High-Dimensional and Multivariate Data Spaces
+33579,T-MBMC
+33580,ISAV@SC
+33581,Kybernetika
+33582,Handbook of Parallel Constraint Reasoning
+33583,MMB
+33584,EuroHaptics (1)
+33585,JRTPM
+33586,WHC
+33587,Atlantis Briefs in Artificial Intelligence
+33588,IJCB
+33589,BTAS
+33590,IEEE Trans. Education
+33591,IMA J. Math. Control & Information
+33592,WHiSe@ESWC
+33593,ALGOSENSORS
+33594,Acta Inf.
+33595,Discrete Mathematics & Theoretical Computer Science
+33596,FCT
+33597,SMM4H@AMIA
+33598,SocialNLP@EMNLP
+33599,GRADES
+33600,Studies in Conversational UX Design
+33601,TextGraphs@ACL
+33602,J. Mathematical Cryptology
+33603,PSD
+33604,NIPS Time Series Workshop
+33605,WI Workshops
+33606,QuASoQ@APSEC
+33607,PhD@VLDB
+33608,RECOMB-CG
+33609,WorldCIST (2)
+33610,Brain Connectivity
+33611,D&P@MoDELS
+33612,IJCRS
+33613,ARCS
+33614,icSPORTS
+33615,RSSRail
+33616,AI4I
+33617,J. Artificial Societies and Social Simulation
+33618,VisBIA@AVI
+33619,AI*IA
+33620,ECEASST
+33621,GCM@ICGT
+33622,CLiC-it/EVALITA
+33623,CrowdSenSys@SenSys
+33624,UrbanGIS@SIGSPATIAL
+33625,Russian Digital Libraries Journal
+33626,ICDSC
+33627,CVIP (2)
+33628,ICL-GNSS
+33629,SOAP@PLDI
+33630,CICC
+33631,PAAP
+33632,Human Vision and Electronic Imaging
+33633,FO & DM
+33634,ISoLA (1)
+33635,Applied Comp. Int. Soft Computing
+33636,SIGBED Review
+33637,ICPRAM
+33638,IWSSIP
+33639,IWSEC
+33640,Ershov Memorial Conference
+33641,OnlineGreenComm
+33642,APAScience
+33643,EMO
+33644,Public Transport
+33645,JMPT
+33646,EGSR (EI&I)
+33647,Bench@CPSIoTWeek
+33648,It's All About Coordination
+33649,JECO
+33650,PPAM (2)
+33651,SSRR
+33652,ICTAC
+33653,CGAMES
+33654,FedCSIS
+33655,CodeSwitch@EMNLP
+33656,ICDPA
+33657,SIGGRAPH ASIA Emerging Technologies
+33658,SIGGRAPH Emerging Technologies
+33659,Social Choice and Welfare
+33660,MESA
+33661,Eng. Comput. (Lond.)
+33662,Complex Systems
+33663,J. Cellular Automata
+33664,Constraints
+33665,CSI@MICCAI
+33666,EANN
+33667,Media Watermarking Security and Forensics
+33668,Information Technology and Management
+33669,ESSDERC
+33670,ICOST
+33671,IRPS
+33672,CHESE@ISSTA
+33673,CSR
+33674,MOL
+33675,NOCS
+33676,ONDM
+33677,XP Workshops
+33678,MDM (Workshops)
+33679,PAAMS (Special Sessions)
+33680,PAAMS
+33681,Artif. Intell. Law
+33682,SIMPAR
+33683,SCN
+33684,MICCAI (4)
+33685,ICYCSEE (2)
+33686,Patch-MI@MICCAI
+33687,Computational Imaging
+33688,HSCC
+33689,Symposium on Real-Time and Hybrid Systems
+33690,Algorithms for Molecular Biology
+33691,ASWEC
+33692,IFIP Advances in Information and Communication Technology
+33693,ICISS
+33694,Cyber Deception
+33695,KMIS
+33696,IWBBIO (2)
+33697,SEMS@ICSE
+33698,IEA/AIE (1)
+33699,PPDP
+33700,C3S2E
+33701,BDAS
+33702,CWIT
+33703,Ontology Makes Sense
+33704,VMBO
+33705,PoEM
+33706,iStar
+33707,IJISMD
+33708,iStarT@CAiSE
+33709,CTSE@SIGSOFT FSE
+33710,IWIL@LPAR
+33711,TABLEAUX
+33712,WANLP@EACL
+33713,BDCloud-SocialCom-SustainCom
+33714,UCC Companion
+33715,TopHPC
+33716,ICCAC
+33717,IISA
+33718,EUROCON
+33719,Interacción
+33720,PNSE @ Petri Nets
+33721,IMDM@VLDB
+33722,MOCO
+33723,J. Software Eng. R&D
+33724,CAiSE-Forum-DC
+33725,IWINAC (1)
+33726,GPGPU@PPoPP
+33727,WOLFHPC@SC
+33728,IWAIPR
+33729,VISIGRAPP (2: IVAPP)
+33730,VISIGRAPP (Revised Selected Papers)
+33731,I. J. Computational Biology and Drug Design
+33732,HCI (26)
+33733,ICITL
+33734,IJICST
+33735,HCI (28)
+33736,Embedded Systems Letters
+33737,Artif. Intell. Rev.
+33738,ICADIWT
+33739,EAIT
+33740,TrustBus
+33741,EvoApplications
+33742,BPM (Dissertation/Demos/Industry)
+33743,Business Process Management Cases
+33744,Discovery Science
+33745,Comput. Meth. in Appl. Math.
+33746,Computat. and Visualiz. in Science
+33747,IJSDS
+33748,IACR Trans. Symmetric Cryptol.
+33749,CISDA
+33750,HPC Asia
+33751,CIBCB
+33752,IISWC
+33753,DDECS
+33754,ICCE-Berlin
+33755,DLT
+33756,MFCS (2)
+33757,SOSA@SODA
+33758,Algorithmic Finance
+33759,IJIIDS
+33760,IoTSMS
+33761,CompIMAGE
+33762,PAMCO@MobiHoc
+33763,CCC
+33764,CSEDU (2)
+33765,Entertainment Computing
+33766,CARLA
+33767,CIbSE
+33768,WORKS@SC
+33769,VECPAR
+33770,ICMIP
+33771,SCF
+33772,MobiMedia
+33773,Synthesis Lectures on Computer Science
+33774,Bench@CPSWeek
+33775,IJBRA
+33776,LWMOOCS
+33777,CHANGEE/WAPLA/HybridEd@EC-TEL
+33778,SOSP History Day
+33779,PATMOS
+33780,Stringology
+33781,DTMBIO@CIKM
+33782,FAS*W@SASO/ICAC
+33783,SCIS&ISIS
+33784,J. Symb. Log.
+33785,J. Cognitive Neuroscience
+33786,BiDU@VLDB
+33787,Int. J. Digital Multimedia Broadcasting
+33788,HuEvent@ACM Multimedia
+33789,ComplexRec@RecSys
+33790,Foundations and Trends in Programming Languages
+33791,WOCN
+33792,SYNT
+33793,NetCompute@SIGCOMM
+33794,SelfDN@SIGCOMM
+33795,DCIS
+33796,IT & People
+33797,ICCCRI
+33798,COMSNETS (Revised Selected Papers and Invited Papers)
+33799,IJADS
+33800,ATIS
+33801,Int. J. Biomedical Imaging
+33802,DeLFI Workshops
+33803,SSS
+33804,Computer Science Education
+33805,COCOA (1)
+33806,J. Applied Probability
+33807,WiSEE
+33808,CRYPTO (3)
+33809,ISSTA/ECOOP Workshops
+33810,FDG
+33811,ISCRAM-med
+33812,DATRA/PIPPI@MICCAI
+33813,ShapeMI@@MICCAI
+33814,CONF-IRM
+33815,M&N
+33816,ICIME
+33817,Periodica Mathematica Hungarica
+33818,Graphics Interface
+33819,ACIVS
+33820,ISC Workshops
+33821,PMBS@SC
+33822,SE-HPCCSE@SC
+33823,ISMICT
+33824,CESI@ICSE
+33825,DEVOPS
+33826,MDAI
+33827,A List of Successes That Can Change the World
+33828,PaPoC@EuroSys
+33829,IEEE Technol. Soc. Mag.
+33830,CFA@UAI
+33831,STREAMEVOLV@ECML-PKDD
+33832,SETN
+33833,AIMSA
+33834,Synthese
+33835,J. Inf. Comm Ethics in Society
+33836,Security Protocols Workshop
+33837,EMAS@AAMAS
+33838,Digital Heritage
+33839,Studia Logica
+33840,Comput. Geom.
+33841,JoCG
+33842,Int. J. Comput. Geometry Appl.
+33843,SmartGIFT
+33844,IEEE Trans. Computational Imaging
+33845,ICCSA (5)
+33846,XSEDE
+33847,FSEN
+33848,EMSOFT
+33849,Math. Log. Q.
+33850,ISMR
+33851,Robotics: Science and Systems
+33852,EmoVis@IUI
+33853,IJSMILE
+33854,SIAM J. Applied Dynamical Systems
+33855,PDSW@SC
+33856,INSCI Workshops
+33857,Encyclopedia of Systems and Control
+33858,MIDAS@PKDD/ECML
+33859,SCVT
+33860,VSCC@MM
+33861,Int. J. Satellite Communications Networking
+33862,IJHCR
+33863,IPMU (2)
+33864,Fifty Years of Fuzzy Logic and its Applications
+33865,DEC
+33866,ECSA Workshops
+33867,Proc. Meetings on Acoustics
+33868,CILC
+33869,Astroinformatics
+33870,SCNLP@EMNLP 2017
+33871,CIMA@ICTAI
+33872,Research@Locate
+33873,CRYBLOCK@MobiSys
+33874,VR/AR Network@SIGCOMM
+33875,HOTPOST@MobiHoc
+33876,HiDeSt@KI
+33877,DCPS
+33878,Intelligenza Artificiale
+33879,CURAC
+33880,Computer Languages Systems & Structures
+33881,OJBD
+33882,VACE@ICSE
+33883,Wireless Days
+33884,SPLINE
+33885,PRNI
+33886,IPSJ Trans. System LSI Design Methodology
+33887,IJNDC
+33888,INFLOW@SOSP
+33889,IJBDCN
+33890,Web3D
+33891,Revolutionizing Education with Digital Ink
+33892,OR Spectrum
+33893,NEAT@SIGCOMM
+33894,SpringSim (Mod4Sim)
+33895,WNS3
+33896,FNSS
+33897,IJCIS
+33898,SIMULTECH
+33899,SIMULTECH (Selected Papers)
+33900,J. Sensor and Actuator Networks
+33901,Digital Photography
+33902,ICIQ
+33903,Symposium on Computer Animation
+33904,TRAP
+33905,FSCD
+33906,BX@ETAPS
+33907,Int. J. Math. Mathematical Sciences
+33908,Data Science for Healthcare
+33909,CCE
+33910,ConfWS
+33911,BioNLP (Shared Task)
+33912,ITCH
+33913,ISITA
+33914,IUCC-CSS
+33915,Ubimob
+33916,Cognitive Vehicular Networks
+33917,Technique et Science Informatiques
+33918,AFRICOMM
+33919,SISY
+33920,DICTAP
+33921,SIGGRAPH ASIA Posters
+33922,J. Comb. Theory Ser. B
+33923,J. Integrative Bioinformatics
+33924,ARRAY@PLDI
+33925,SCALA@SPLASH
+33926,IJITWE
+33927,IJACI
+33928,AuCC
+33929,SPIE Proceedings
+33930,JOEUC
+33931,ICCVE
+33932,DSIA
+33933,Eur. J. Comb.
+33934,Combinatorica
+33935,HIP@ICDAR
+33936,ISA@SIGSPATIAL
+33937,MTV
+33938,IJABIM
+33939,ICDSP
+33940,Synthesis Lectures on Antennas
+33941,COPA
+33942,WCNC Workshops
+33943,ADHOC-NOW
+33944,pHealth
+33945,ICSIPA
+33946,NGCAS
+33947,ICPS
+33948,FFER/DLPR@ICPR
+33949,LATINCOM
+33950,ECMFA
+33951,AsiaHaptics
+33952,CSNDSP
+33953,ISPASS
+33954,ICETE (2)
+33955,TD-LSG@PKDD/ECML
+33956,Minds and Machines
+33957,Logic Rewriting and Concurrency
+33958,BAI@IJCAI
+33959,NSysS
+33960,IDEAL (1)
+33961,ISSE
+33962,RAMICS
+33963,ISRR (2)
+33964,GAMENETS
+33965,IJITPM
+33966,J. Field Robotics
+33967,FICN@MOBICOM
+33968,DeLFI/GMW Workshops
+33969,EUROCAST (2)
+33970,IJCSA
+33971,HyTra@COLING
+33972,RFIDSec
+33973,SMPS
+33974,ROCLING
+33975,EvoCOP
+33976,HCIS
+33977,TVX (Adjunct)
+33978,PSCC
+33979,UV
+33980,Systems Engineering
+33981,SIGGRAPH Asia Visualization in High Performance Computing
+33982,FCRC
+33983,AISTECS@HiPEAC
+33984,IJMTM
+33985,GI-Jahrestagung (Workshops)
+33986,IJICTE
+33987,EAI Endorsed Trans. Cognitive Communications
+33988,EAI Endorsed Trans. Self-Adaptive Systems
+33989,ICBDE
+33990,IJCIP
+33991,ArtsIT/DLI
+33992,FMICS-AVoCS
+33993,ScalA@SC
+33994,SIES
+33995,TAROS
+33996,MOCAST
+33997,ICIN
+33998,AIH@IJCAI
+33999,CVII-STENT/LABELS@MICCAI
+34000,CARE/CLIP@MICCAI
+34001,COORDINATION
+34002,IJSN
+34003,SMN@ICWSM
+34004,Cybernetics and Systems
+34005,Appl. Algebra Eng. Commun. Comput.
+34006,COMPAY/OMIA@MICCAI
+34007,3DTV-Conference
+34008,ICUMT
+34009,Cryptography
+34010,ASHES@CCS
+34011,TCC (A2)
+34012,TCC (B1)
+34013,ITP
+34014,MARS@ETAPS
+34015,COOL Chips
+34016,IWOMP
+34017,VPA@SC
+34018,ACOMP
+34019,Production Engineering
+34020,CONCUR
+34021,MHS
+34022,Ars Math. Contemp.
+34023,TGC
+34024,SER&IP@ICSE
+34025,SAFECOMP
+34026,Computational Complexity Conference
+34027,ICFNDS
+34028,FAILSAFE@SenSys
+34029,CySWATER@CPSWeek
+34030,SIGGRAPH Asia Technical Briefs
+34031,IJKBO
+34032,IJCBPL
+34033,LASCAS
+34034,Encyclopedia of Biometrics
+34035,EAI Endorsed Trans. Future Intellig. Educat. Env.
+34036,CRITIS
+34037,CORBON@HLT-NAACL
+34038,Haskell@ICFP
+34039,Models: Concepts Theory Logic Reasoning and Semantics
+34040,Dependence Logic
+34041,BigSpatial@SIGSPATIAL
+34042,IBICA
+34043,NANOARCH
+34044,EAI Endorsed Trans. Wireless Spectrum
+34045,ENIC
+34046,Science Robotics
+34047,Springer Handbook of Robotics 2nd Ed.
+34048,World Haptics
+34049,Synthesis Lectures on Computer Architecture
+34050,Foundations and Trends in Communications and Information Theory
+34051,NetCod
+34052,CodeSwitch@ACL
+34053,WLSI/OIAF4HLT@COLING
+34054,WLSI
+34055,HCI (24)
+34056,HotEdge
+34057,HAPTICS
+34058,SIGGRAPH Courses
+34059,INTERACT (1)
+34060,NIME
+34061,ITW Fall
+34062,RSKT
+34063,IEEE ANTS
+34064,Contributions to Discrete Mathematics
+34065,AVR
+34066,PMLDC@ECOOP
+34067,ICCSPA
+34068,Digital Library Perspectives
+34069,ScienceCloud@HPDC
+34070,AI-Science@HPDC
+34071,JSSPP
+34072,PDSW-DISCS@SC
+34073,DataCloud@SC
+34074,SCREAM@HPDC
+34075,VLCS@MobiCom
+34076,SCFA
+34077,VISIGRAPP (1: GRAPP)
+34078,mmNets@MobiCom
+34079,AsiaJCIS
+34080,SIGGRAPH ASIA Courses
+34081,Med-Hoc-Net
+34082,MLMI
+34083,Handbook of Software Engineering
+34084,AMPS
+34085,Computational Models of Rationality
+34086,QCMan@ITC
+34087,MCO (1)
+34088,WorldCIST (1)
+34089,FIT
+34090,NGMAST
+34091,FICTA (1)
+34092,ASYNC
+34093,EMSASW@ESWC
+34094,HAICTA (Revised Selected Papers)
+34095,Int. J. Intelligent Computing and Cybernetics
+34096,CVMP
+34097,SIGDOC
+34098,IJART
+34099,Foundations and Trends in Technology Information and Operations Management
+34100,Provably Correct Systems
+34101,ICGI
+34102,IVMSP
+34103,Control and Intelligent Systems
+34104,IJCNDS
+34105,IJUC
+34106,CS&P
+34107,JNW
+34108,ACM Southeast Regional Conference
+34109,ICISSP (Revised Selected Papers)
+34110,MLDM (1)
+34111,SocialSens@CPSIoTWeek
+34112,Education for Information
+34113,LITES
+34114,DCC@PODC
+34115,CIAC
+34116,Hot Interconnects
+34117,PASC
+34118,Software for Exascale Computing
+34119,IJFSA
+34120,PPSN (1)
+34121,PPSN (2)
+34122,Swarm Intelligence
+34123,PROMISE
+34124,ISD
+34125,Int. J. Fuzzy Logic and Intelligent Systems
+34126,IJPEDS
+34127,ICDM (Posters)
+34128,AGIT Journal
+34129,ICDF2C
+34130,IJCRS (1)
+34131,Connect. Sci.
+34132,ECRTS
+34133,VLSI-SoC (Selected Papers)
+34134,Adv. Numerical Analysis
+34135,ATCS/SePrIoT@SecureComm
+34136,Springer Briefs in Electrical and Computer Engineering
+34137,WINSYS
+34138,IVSW
+34139,SumPre-HSWI@ESWC
+34140,DATA BASE
+34141,Source Code for Biology and Medicine
+34142,APMS
+34143,MobiSec
+34144,Int. J. Computer Games Technology
+34145,CSA/CUTE
+34146,ACI@UAI
+34147,SoCPaR
+34148,PLP@ILP
+34149,AI-IoT@ECAI
+34150,EuroSPI
+34151,SPSR-SG@CPSWeek
+34152,SAT
+34153,Odyssey
+34154,Network Protocols & Algorithms
+34155,COIN@AAMAS/IJCAI
+34156,Visualization in Medicine and Life Sciences III
+34157,SciVis
+34158,SSIAI
+34159,Synthesis Lectures on Visual Computing
+34160,ICISA
+34161,VS@HLT-NAACL
+34162,IJEBR
+34163,DMSVLSS
+34164,SWH@ISWC
+34165,EMF-CRM@TPDL
+34166,Lecture Notes in Electrical Engineering
+34167,IWOCL
+34168,WCI
+34169,PACMCGIT
+34170,ICDIS
+34171,J. Computational Engineering
+34172,BroDyn@ECIR
+34173,CAiSE Industry Track
+34174,CCDWN@CoNEXT
+34175,DNA
+34176,High Performance Graphics
+34177,ASPOCP@LPNMR
+34178,MSAN
+34179,WPNC
+34180,SLSP
+34181,ATS
+34182,IoT-App@SenSys
+34183,Int. J. Online Biomed. Eng.
+34184,PLM
+34185,DC@PKDD/ECML
+34186,CMBBE: Imaging & Visualization
+34187,AIED (1)
+34188,FIMH
+34189,ICCNS
+34190,Australasian J. Combinatorics
+34191,WCSC
+34192,ICMV
+34193,NAFIPS/WConSC
+34194,WACCPD@SC
+34195,CCIW
+34196,FSE
+34197,INA-OCMC@HiPEAC
+34198,UDW@EMNLP
+34199,DC@ISWC
+34200,CASC
+34201,ESTImedia
+34202,EWSDN
+34203,VISAPP (1)
+34204,SBGames
+34205,ICPRAM (1)
+34206,Complex Adaptive Systems
+34207,CompSysTech
+34208,CSBio
+34209,EuroMed (1)
+34210,Presence
+34211,Group and Crowd Behavior for Computer Vision
+34212,SoMePeAS@ECIR
+34213,AAAI Workshop: Declarative Learning Based Programming
+34214,DASIP
+34215,Trans. Data Hiding and Multimedia Security
+34216,VT@Middleware
+34217,SIGGRAPH ASIA Virtual Reality meets Physical Reality
+34218,AutonomousGIS@SIGSPATIAL
+34219,IWGS
+34220,Digital Mammography / IWDM
+34221,DHC@MTSR
+34222,EDA
+34223,Technology Knowledge and Learning
+34224,HoloMAS
+34225,J. Log. Algebr. Meth. Program.
+34226,VECoS
+34227,BELIEF
+34228,SERENE
+34229,AVSP
+34230,EAI Endorsed Trans. Ubiquitous Environments
+34231,IJCAC
+34232,RFID
+34233,IMACC
+34234,IJDC
+34235,VST@SANER
+34236,Intertwingled - The Work and Influence of Ted Nelson
+34237,WAC
+34238,Brainles@MICCAI
+34239,SocialNLP@EACL
+34240,Artificial Life
+34241,IJSSC
+34242,IJAAC
+34243,SpringSim (MSCIAAS)
+34244,IJNC
+34245,WiPSCE
+34246,LAW@NAACL-HLT
+34247,ARMS-CC@PODC
+34248,EUSFLAT/IWIFSGN (3)
+34249,RSFDGrC
+34250,ManLang
+34251,EGPGV
+34252,Journal of Decision Systems
+34253,Handbook on Business Process Management (2)
+34254,Data Mining and Constraint Programming
+34255,SEFM Workshops
+34256,OpenSHMEM
+34257,CIRA@EuroMed
+34258,GISTAM
+34259,MCS
+34260,HEART
+34261,Evolving Systems
+34262,Library Trends
+34263,NaBIC
+34264,SeWeBMeDA@ESWC
+34265,SASO Workshops
+34266,Virtual Reality
+34267,EPTCS
+34268,TyDe@ICFP
+34269,Wireless Health
+34270,SIGGRAPH Studio
+34271,FOCI
+34272,NCCA
+34273,COSH@HiPEAC
+34274,COSH@HiPEAC (extended versions)
+34275,CloudDP@EuroSys
+34276,EANN Workshops
+34277,SBSI
+34278,HEFA
+34279,ICEIS (3)
+34280,IEEE-RITA
+34281,EWiLi
+34282,BioTxtM@COLING 2016
+34283,IJOPCD
+34284,Int. J. Reconfig. Comp.
+34285,LCPC
+34286,VADOR@INFORSID
+34287,INFORSID
+34288,IJBIDM
+34289,SOFSEM (Student Research Forum Papers / Posters)
+34290,Combinatorics Probability & Computing
+34291,Groups Complexity Cryptology
+34292,ICCCI (1)
+34293,J. Innovation in Digital Ecosystems
+34294,SoftwareMining@ASE
+34295,IJISTA
+34296,AAAI Workshop: Artificial Intelligence Applied to Assistive Technologies and Smart Environments
+34297,INFLOW@OSDI
+34298,MCPR
+34299,MSPN
+34300,WSA
+34301,BCD
+34302,WHPCF@SC
+34303,Decision Analytics
+34304,IoT S&P@CCS
+34305,Advances in Cyber Security
+34306,AFRICATEK
+34307,HAISA
+34308,COIN@AAMAS/ECAI
+34309,DMIAF
+34310,MultiLing@EACL
+34311,IEEE RFID
+34312,NCVPRIPG
+34313,MUSE@PKDD/ECML
+34314,I. J. Speech Technology
+34315,VSTTE
+34316,MARS/VPT@ETAPS
+34317,Algorithm Engineering
+34318,ICAISC (1)
+34319,IJGBL
+34320,SeGAH
+34321,CAiSE (Doctoral Consortium)
+34322,FHPC@ICFP
+34323,IJWP
+34324,AGI
+34325,iSTAR@CAiSE
+34326,CSIMQ
+34327,CRIS
+34328,Imprecision and Uncertainty in Information Representation and Processing
+34329,Int. J. of Asian Lang. Proc.
+34330,DX@Safeprocess
+34331,IntelliSys (2)
+34332,WADS
+34333,DFT
+34334,Structural Changes and their Econometric Modeling
+34335,CSOS (1)
+34336,IEEE Trans. Prof. Communication
+34337,SiPhotonics@HiPEAC
+34338,TACAS (2)
+34339,Resource Management for Big Data Platforms
+34340,ASIACRYPT (3)
+34341,Journal of Social Structure
+34342,IJAGR
+34343,Information Knowledge Systems Management
+34344,CLiC-it
+34345,Social Signal Processing
+34346,OpenStreetMap in GIScience
+34347,NS Ethics@SIGCOMM
+34348,MECC@Middleware
+34349,LANCOMM@SIGCOMM
+34350,MobiArch
+34351,AIRE@RE
+34352,Usability Professionals
+34353,IEEE Control Systems Letters
+34354,D&D
+34355,NAACL-HLT (Tutorial Abstracts)
+34356,LAW-MWE-CxG@COLING
+34357,AMTA (2)
+34358,EPEW
+34359,FTSCS
+34360,PPPJ
+34361,AAAI Workshop: Beyond NP
+34362,ISCIS
+34363,CSDM
+34364,Synthesis Lectures on Image Video and Multimedia Processing
+34365,J. Inform. and Commun. Convergence Engineering
+34366,iV&L-MM@MM
+34367,ICIAP (2)
+34368,Ambient Intelligence and Smart Environments
+34369,ICSM
+34370,EMDL@MobiSys
+34371,TOPIC@PODC
+34372,CNI@MICCAI
+34373,IJMOR
+34374,Systems
+34375,ICVGIP
+34376,CPR
+34377,ICDCN Workshops
+34378,SIAM J. Financial Math.
+34379,MIG
+34380,SMACD
+34381,Google It Total Information Awareness
+34382,IJCALLT
+34383,ClinicalNLP@COLING 2016
+34384,Handbook of Heuristics
+34385,Foundations and Trends in Machine Learning
+34386,GBCIC
+34387,GCPR
+34388,MLMMI@ICML
+34389,VL@EMNLP
+34390,NEWS@ACM
+34391,ACLING
+34392,ACCV Workshops (1)
+34393,DiGRA/FDG
+34394,EMPIRE@RecSys
+34395,Journal Comp. Netw. and Communic.
+34396,COMSNETS (Extended Selected Papers)
+34397,SOFT5@ITC
+34398,LA-CCI
+34399,SOCO-CISIS-ICEUTE
+34400,CISIS-ICEUTE
+34401,SCAI
+34402,CANDAR Workshops
+34403,Intelligent Systems Reference Library
+34404,ICCMA
+34405,DMS
+34406,Modelica
+34407,MLCN/DLF/iMIMIC@MICCAI
+34408,MCV/BAMBI@MICCAI
+34409,IPTComm
+34410,PGM
+34411,SEI series in software engineering
+34412,RELENG@ICSE
+34413,QoSA
+34414,SRDS Workshop
+34415,CSAR@SenSys
+34416,JoSSR
+34417,MaLTeSQuE@SANER
+34418,ICCSA (7)
+34419,Cognitive Systems Monographs
+34420,AAAI Workshop: Knowledge Extraction from Text
+34421,LaTeCH@ACL
+34422,CyberSA
+34423,IDAACS
+34424,Software environments and tools
+34425,EvoApplications (2)
+34426,SpringSim (CNS)
+34427,MCU
+34428,SocialNLP@ACL
+34429,CMMR
+34430,DESTION@CPSIoTWeek
+34431,RSP
+34432,Business Proc. Manag. Journal
+34433,Using Comparable Corpora for Under-Resourced Areas of Machine Translation
+34434,DATA@SenSys
+34435,IJAPUC
+34436,IWPT
+34437,FIFI/OMIA@MICCAI
+34438,CSCESM
+34439,FICTA
+34440,SESoS@ICSE
+34441,Archive of Formal Proofs
+34442,PROLE
+34443,IJAVET
+34444,Enjoying Natural Computing
+34445,IPTA
+34446,FSR
+34447,VISIGRAPP (4: VISAPP)
+34448,DySDoc@ICSME
+34449,Security Informatics
+34450,SLTU
+34451,ICMC
+34452,IJMHCI
+34453,Inf. Syst. J.
+34454,SCIS
+34455,Digital Creativity
+34456,JCSG
+34457,TCC (A1)
+34458,COSMIC@CGO
+34459,Biological Cybernetics
+34460,IWANN (1)
+34461,SBES
+34462,SBCARS
+34463,HCI (25)
+34464,Bidirectional Transformations
+34465,MPC
+34466,Bx@STAF
+34467,LFMTP
+34468,Sicherheit
+34469,SLDS
+34470,RIVF
+34471,CHASE@ICSE
+34472,Open Identity Summit
+34473,WESE
+34474,ICGEC (2)
+34475,IMCL
+34476,Informatics in Education
+34477,ALR@COLING
+34478,Digital Humanities Quarterly
+34479,ISRR (1)
+34480,IJKDB
+34481,MIH@KDD
+34482,MIAR
+34483,RAMiCS
+34484,VISSOFT
+34485,MIS Quarterly Executive
+34486,Digital Photography and Mobile Imaging
+34487,J. Systems and IT
+34488,De Gruyter Studium
+34489,DeLFI
+34490,EuroHaptics (2)
+34491,Public Library Quarterly
+34492,ABAC@CODASPY
+34493,ICETE (Selected Papers)
+34494,GEMOC+MPM@MoDELS
+34495,J. Formalized Reasoning
+34496,IJOSSP
+34497,ICCBB
+34498,ICMS
+34499,Studies in Big Data
+34500,AI³@AI*IA
+34501,COREDEMA@ECAI
+34502,JELIA
+34503,IWSC
+34504,ICPRAM (2)
+34505,ICPRAM (Selected Papers)
+34506,IJDATS
+34507,IJISSC
+34508,SRIF@MobiCom
+34509,JOWO@IJCAI
+34510,CLA
+34511,Discrete Optimization
+34512,TTCS
+34513,RETech@ICMR
+34514,CLEI
+34515,Bled eConference
+34516,GamiFIN
+34517,Foundations and Trends in Networking
+34518,CADE
+34519,UNet
+34520,CIBB
+34521,ICIAP (1)
+34522,IWANN (2)
+34523,GCH
+34524,IoTPTS@AsiaCCS
+34525,DIDC@HPDC
+34526,PAW@SC
+34527,ESPM2@SC
+34528,ESPT@SC
+34529,IWSDS
+34530,TAG
+34531,EJGTA
+34532,Semantic Web Technologies for Intelligent Engineering Applications
+34533,CGI (Short Papers)
+34534,ACSC
+34535,EuroMPI
+34536,System Modelling and Optimization
+34537,SLaTE
+34538,MobiMWareHN@MobiHoc
+34539,DS@MoDELS
+34540,ENSsys@SenSys
+34541,Int. J. Hybrid Intell. Syst.
+34542,MIDAS/PAP@PKDD/ECML
+34543,HSB
+34544,J. Num. Math.
+34545,DB&IS (Selected Papers)
+34546,WCICSS
+34547,WEB
+34548,SCIA (1)
+34549,Smart Modeling and Simulation for Complex Systems
+34550,MANPU@ICDAR
+34551,ICMMI
+34552,QTNA
+34553,IJEB
+34554,ICIST
+34555,NPAR
+34556,MobiHealth
+34557,Springer Theses
+34558,IWCIM
+34559,Health Monitoring and Personalized Feedback using Multimedia Data
+34560,EuroGP
+34561,SpringSim (ADS)
+34562,FDSE
+34563,SCTDCP@ASE
+34564,RIoT
+34565,BFAL
+34566,PrAISe@ECAI
+34567,SPECOM
+34568,IberSPEECH
+34569,CSDM Asia
+34570,SWAN@ESEC/SIGSOFT FSE
+34571,SafeThings@SenSys
+34572,ICST Trans. e-Education e-Learning
+34573,ICORES
+34574,OR
+34575,Dynamic Games and Applications
+34576,DCAI (Special Sessions)
+34577,ISPCS
+34578,JSTA
+34579,IT@LIA@AI*IA
+34580,HMD - Praxis Wirtschaftsinform.
+34581,MIPRO
+34582,ISPLC
+34583,ICCSW
+34584,WoLLIC
+34585,SASHIMI@MICCAI
+34586,Smart CR
+34587,Three-Dimensional Image Processing Measurement (3DIPM) and Applications
+34588,WAIAH@AI*IA
+34589,Machine Learning Paradigms
+34590,AIH@IJCAI (Revised Selected Papers)
+34591,AnSWeR@ESWC
+34592,ForItAAL
+34593,IJSCCPS
+34594,PGW@CHI PLAY
+34595,MCETECH
+34596,Modellierung
+34597,STPIS@CAiSE
+34598,Modellierung (Workshops)
+34599,ICGSE
+34600,WMDD@ICMI
+34601,IJGCMS
+34602,Innovations in Knowledge Management
+34603,Formal Concept Analysis of Social Networks
+34604,FGE@CHI PLAY
+34605,Int. J. Web Eng. Technol.
+34606,IJKSR
+34607,EUMAS
+34608,AAMAS Workshops (Visionary Papers)
+34609,I. J. Computer-Supported Collaborative Learning
+34610,NLP+CSS@ACL
+34611,CLPsych@ACL
+34612,Bridging@CADE
+34613,OnSt@WebSci
+34614,WAT@COLING
+34615,BUCC@ACL/IJCNLP
+34616,Social Media for Government Services
+34617,VarDial@COLING 2018
+34618,Symbiotic
+34619,Springer Briefs in Cybersecurity
+34620,JDFSL
+34621,NOF
+34622,Networks
+34623,EnSEmble@ESEC/SIGSOFT FSE
+34624,GAS@ICSE
+34625,P&D@MoDELS
+34626,HuFaMo@MoDELS
+34627,TRAC@COLING 2018
+34628,EVALITA@CLiC-it
+34629,ICARSC
+34630,HIC@HT
+34631,NHT@HT
+34632,UKAIS
+34633,WSSANLP@COLING
+34634,MCPMD@ICMI
+34635,GIFT@ICMI
+34636,LPNMR
+34637,P2DS@EuroSys
+34638,EVENTS@HLP-NAACL
+34639,Bx@ETAPS
+34640,AutoML@PKDD/ECML
+34641,IVIC
+34642,RASLAN
+34643,SAMI@iKNOW
+34644,CLBib@ISSI
+34645,ECIL
+34646,BIIRRR@CHIIR
+34647,SCST@CHIIR
+34648,iNetSeC
+34649,Funology 2nd ed.
+34650,AAAI Workshop: AI and Ethics
+34651,ListLang@NoDaLiDa
+34652,ISIAA@ICMI
+34653,eHealth 360°
+34654,CVAUI/IWCF/MIPPSNA@ICPR
+34655,CrowdMM@ACM Multimedia
+34656,CN
+34657,EUROMICRO-SEAA
+34658,Simulating Social Complexity
+34659,GREC
+34660,Personal Assistants
+34661,EnCHIReS@EICS
+34662,DiscoMT@EMNLP
+34663,ME@MODELS
+34664,DDDSM@IJCNLP
+34665,Adv. Artificial Neural Systems
+34666,IJTEM
+34667,IJWBC
+34668,VarDial@COLING
+34669,TASS@SEPLN
+34670,TAFA
+34671,SAFA@COMMA
+34672,Advances in Intelligent Process-Aware Information Systems
+34673,BIR
+34674,MindCare
+34675,Fish4Knowledge
+34676,JCDCGG
+34677,MobiSys PhDForum
+34678,WISES
+34679,OJWT
+34680,DSW
+34681,J. Community Informatics
+34682,SAAIP@IJCAI
+34683,ICSOFT
+34684,WOSP@JCDL
+34685,Handbook of Formal Methods in Human-Computer Interaction
+34686,IS-EUD
+34687,PEMWN
+34688,FinE-R@IROS
+34689,J. Language Modelling
+34690,ISIP
+34691,Cyber Security
+34692,ICS-CSR
+34693,SIN
+34694,JFSMA
+34695,KES-AMSTA
+34696,ETVIS
+34697,MWE@EACL
+34698,MWE@NAACL-HLT
+34699,TFC
+34700,LDIC
+34701,ERM4CT@ICMI
+34702,Italian Natural Language Processing within the PARLI Project
+34703,RJCIA
+34704,SICSA ReaLX
+34705,ICCBR (Workshops)
+34706,ITASEC
+34707,AIST (Supplement)
+34708,VarDial
+34709,IbPRIA
+34710,Symposium on Computer Animation (Posters)
+34711,Ann. Pure Appl. Logic
+34712,SSBSE
+34713,NAACL-HLT (Student Research Workshop)
+34714,ICAISC (2)
+34715,IJEIS
+34716,CGVC
+34717,BMSD
+34718,RESACS@RE
+34719,RADAR+EMISA@CAiSE
+34720,BMMDS/EMMSAD
+34721,MMCommons @ ACM Multimedia
+34722,Evolutionary Intelligence
+34723,EAIS
+34724,EvoApplications (1)
+34725,PARMA-DITAM@HiPEAC
+34726,ECBS
+34727,RCRA@AI*IA
+34728,Rew. Symb. Logic
+34729,AAAI Workshop: Planning for Hybrid Systems
+34730,IJAEIS
+34731,SIGMAP
+34732,IJBIS
+34733,KELVAR@VR
+34734,Studies in Fuzziness and Soft Computing
+34735,WADT
+34736,PPSN
+34737,Artificial Evolution
+34738,FOGA
+34739,EMO (1)
+34740,Privacy and Identity Management
+34741,MEMICS
+34742,Decision Analysis
+34743,Computability and Complexity
+34744,ECSCW Doctoral Colloquium
+34745,Information Polity
+34746,AmI (Workshops/Posters)
+34747,Challenging Problems and Solutions in Intelligent Systems
+34748,Europhras
+34749,C&RL
+34750,RIIT
+34751,VISIGRAPP (5: VISAPP)
+34752,ICHSA
+34753,ICAT-EGVE
+34754,MPS@CCS
+34755,SCAV@CPSWeek
+34756,ATSIP
+34757,ATMOS
+34758,TPNC
+34759,Advances in Aeronautical Informatics
+34760,SAM@ICSE
+34761,TePRA
+34762,AWC
+34763,Eurographics (Short Papers)
+34764,EUSFLAT/IWIFSGN (2)
+34765,Granular Soft and Fuzzy Approaches for Intelligent Systems
+34766,IPMU (1)
+34767,EJIS
+34768,IJKEDM
+34769,SSW
+34770,Natural Language Dialog Systems and Intelligent Assistants
+34771,Int. J. Comput. Linguistics Appl.
+34772,AGERE!@SPLASH
+34773,TAL
+34774,Why Engagement Matters
+34775,BSNLP@EACL
+34776,Adv. Operations Research
+34777,NeSy@HLAI
+34778,New Era for Robust Speech Recognition Exploiting Deep Learning
+34779,CMCL@NAACL-HLT
+34780,Computational Music Analysis
+34781,KaRS@RecSys
+34782,BNCAI
+34783,CMN
+34784,IJAC
+34785,CIST
+34786,ENLG
+34787,LTC
+34788,NODALIDA
+34789,iJES
+34790,LOPSTR
+34791,WILF
+34792,DHN
+34793,WOCCI
+34794,IJAPR
+34795,IWAAL
+34796,JDMDH
+34797,DLfm
+34798,J. Comp. Assisted Learning
+34799,Big Data Technologies and Applications
+34800,ASAR
+34801,PETMEI@ETRA
+34802,ICPRAM (Revised Selected Papers)
+34803,MOCR@ICDAR
+34804,HDI@ICDAR
+34805,INFOS
+34806,ICT4AgeingWell
+34807,HPGDMP@SC
+34808,Intelligent Assistive Robots
+34809,AMBN
+34810,ACG
+34811,CGW@IJCAI
+34812,LSDSem@EMNLP
+34813,OSS4MDE@MoDELS
+34814,STAF Projects Showcase
+34815,JIT
+34816,AAAI Fall Symposium: ALEC
+34817,HyTra@ACL
+34818,MuSRobS@IROS
+34819,Theory in Biosciences
+34820,IJSHC
+34821,IWCIA
+34822,WAHC@CCS
+34823,IJCCI (ECTA)
+34824,SAB
+34825,MICI@CHI
+34826,ITAP
+34827,Smart Micro-Grid Systems Security and Privacy
+34828,IJEH
+34829,ABP
+34830,FedCSIS Communication Papers
+34831,ICCBDC
+34832,BrainLes@MICCAI
+34833,CyberICPS@ESORICS
+34834,SIGUCCS
+34835,T4E
+34836,Wirtschaftsinformatik & Management
+34837,CSE
+34838,ICAHGCA@AAMAS
+34839,Multimedia Tools and Applications for Environmental & Biodiversity Informatics
+34840,MFSec@ICMR
+34841,Drift-a-LOD@EKAW
+34842,MARMI@ICMR
+34843,IJEHMC
+34844,EMR@ICMR
+34845,VRIC
+34846,DiGRA Conference
+34847,WSICC@TVX
+34848,Smart Health
+34849,IJQAETE
+34850,SQAMIA
+34851,IJHCITP
+34852,ICCCI (2)
+34853,AMTA (1)
+34854,MLIS@ICML
+34855,GPTP
+34856,Cognitive Intelligence and Robotics
+34857,CyberICPS/SECPRE@ESORICS
+34858,Cryptology and Information Security Series
+34859,ANTS
+34860,VL@ACL
+34861,ITiCSE (Companion)
+34862,URANIA@AI*IA
+34863,Companion Technology
+34864,ISCT
+34865,BMDID@ISWC
+34866,QI
+34867,HIC
+34868,IJOM
+34869,SCCG
+34870,MSCC@MobiHoc
+34871,EAI Endorsed Trans. Cloud Systems
+34872,FETLT
+34873,Disaster Robotics
+34874,CASM
+34875,Nature-Inspired Computation in Engineering
+34876,EEWC
+34877,ABZ
+34878,SBAC-PAD Workshops
+34879,SCCC
+34880,SIGGRAPH ASIA (Courses)
+34881,Mixed Reality and Gamification for Cultural Heritage
+34882,Context Aware Human-Robot and Human-Agent Interaction
+34883,Human-Computer Interaction Series
+34884,SIGGRAPH Asia Courses
+34885,DDGD@MindTrek
+34886,FedCSIS Position Papers
+34887,ICMT
+34888,MATES
+34889,IJAOSE
+34890,RNDM
+34891,IFIP AI
+34892,FDM
+34893,Cloud-Based Benchmarking of Medical Image Analysis
+34894,VISCERAL Challenge@ISBI
+34895,EMOOCs
+34896,UCAmI
+34897,AmILP@ECAI
+34898,Adaptive computation and machine learning
+34899,MISSI
+34900,Recent Advances in Swarm Intelligence and Evolutionary Computation
+34901,IJVCSN
+34902,SSST@NAACL-HLT
+34903,Nemesis/UrbReas/SoGood/IWAISe/GDM@PKDD/ECML
+34904,CICM
+34905,CICM Workshops
+34906,MCIS
+34907,COMHUM
+34908,CyberParks
+34909,IAL@PKDD/ECML
+34910,BCIforReal@IUI
+34911,PsychNology Journal
+34912,BPM (Industry Track)
+34913,IWCS(1)
+34914,SwSTE
+34915,CD-ARES
+34916,DICE-FOPARA@ETAPS
+34917,Notre Dame Journal of Formal Logic
+34918,MWE@ACL
+34919,DKB/KIK@KI
+34920,CSII
+34921,HCSE
+34922,ICSA Workshops
+34923,FM4M/MathUI/ThEdu/DP/WIP@CIKM
+34924,ECCE
+34925,CNL
+34926,OASC
+34927,LSC@ICMR
+34928,Ethical Reasoning in Big Data
+34929,IICAIET
+34930,SIGGRAPH ASIA (Posters)
+34931,POCUS/BIVPCS/CuRIOUS/CPM@MICCAI
+34932,CVIP (1)
+34933,Axioms
+34934,J. Philosophical Logic
+34935,VISIGRAPP (3: VISAPP)
+34936,DMLE/IOTSTREAMING@PKDD/ECML
+34937,IWESEP
+34938,IWESEP@SANER
+34939,RV-CuBES
+34940,PRIME@MICCAI
+34941,IBERAMIA
+34942,BSNLP@RANLP
+34943,IJHAC
+34944,APSITT
+34945,AIRO@AI*IA
+34946,DCPD@CHItaly
+34947,NFMCP@PKDD/ECML
+34948,SLMI@ICMI
+34949,PECCS
+34950,CITI
+34951,J. Cases on Inf. Techn.
+34952,ICTCS
+34953,GandALF
+34954,ICTCS/CILC
+34955,Electr. Notes Theor. Comput. Sci.
+34956,ISIVC
+34957,CPCR+ITWP@IJCAI
+34958,Advanced Research in Data Privacy
+34959,KnowProS@IJCAI
+34960,MESOCA
+34961,OR 2.0/CARE/CLIP/ISIC@MICCAI
+34962,ICCASA/ICTCC
+34963,WOA
+34964,SOLI
+34965,ICSE (NIER)
+34966,SST@ICSE
+34967,RePa@RE
+34968,NIK
+34969,SciSec
+34970,ML4CPS
+34971,FMT
+34972,Ershov Informatics Conference
+34973,WAT
+34974,HPCSE
+34975,SPRO@CCS
+34976,CNIA+RJCIA
+34977,FCA&A@ICFCA
+34978,Handbook of Computational Intelligence
+34979,VCBM
+34980,AL@iKNOW
+34981,Springer Briefs in Intelligent Systems
+34982,Computers in Entertainment
+34983,ICCSA (Short Papers/poster papers/PhD student showcase works)
+34984,Inf. & Comput. Security
+34985,ICARA
+34986,AAAI Workshop: Learning for General Competency in Video Games
+34987,Probl. Inf. Transm.
+34988,SIGSAND/PLAIS
+34989,YSIP
+34990,ICTA
+34991,ABMUS@AAMAS
+34992,MABS
+34993,CIAA
+34994,CSED@ICSE
+34995,Journal of Research and Practice in Information Technology
+34996,WBDB
+34997,SEiA
+34998,RITT
+34999,ICETET
+35000,AAAI Workshop: Incentives and Trust in Electronic Communities
+35001,CPSS@ASIACSS
+35002,IESS
+35003,FGCN
+35004,NSysS (2)
+35005,Guide to Vulnerability Analysis for Computer Networks and Systems
+35006,CyCon U.S.
+35007,PLEASE@ICSE
+35008,SpringSim (ANSS)
+35009,Engineering Adaptive Software Systems
+35010,IJSSE
+35011,MoDRE
+35012,CBDAR@ICDAR
+35013,IJSODIT
+35014,Lecture Notes in Educational Technology
+35015,ICTSS
+35016,Handbook of Deep Learning Applications
+35017,IPEC
+35018,DChanges@DocEng
+35019,SHCIS@DAIS
+35020,DATESO
+35021,APMS (1)
+35022,CIIA
+35023,QUATIC
+35024,VikingPLoP
+35025,AIAI (Workshops)
+35026,WITFOR
+35027,IC2IT
+35028,Fouille de Données Complexes
+35029,TIA
+35030,EMCIS
+35031,ICETE (1)
+35032,AGILE
+35033,EG
+35034,AlCoB
+35035,ANTS Conference
+35036,SAOA@JAIIO
+35037,IJDSST
+35038,A2HC@AAMAS/A-HEALTH@PAAMS
+35039,AWICT
+35040,IAIT
+35041,HCVS
+35042,HCVS@ETAPS
+35043,Correct Software in Web Applications and Web Services
+35044,SW4SHD@ESWC
+35045,RITA
+35046,ECAL
+35047,IMPEX/FM&MDD
+35048,MICAI (Special Sessions)
+35049,DoCEIS
+35050,EATIS
+35051,CORES
+35052,SEEM@ICSE
+35053,IJSITA
+35054,IJATS
+35055,IJSKD
+35056,GHItaly@AVI
+35057,CoPDA@AVI
+35058,HWID
+35059,INTERACT Workshops
+35060,SERVE@AVI
+35061,CoPDA@NordiCHI
+35062,ITHET
+35063,HealthyIoT
+35064,VVH@AVI
+35065,IUKM
+35066,AHS
+35067,ICAISC
+35068,ICGEC
+35069,MCSS
+35070,Human Centered Software Product Lines
+35071,ModComp@MoDELS
+35072,Computer Science (AGH)
+35073,SAGEO
+35074,ICAASE
+35075,NAFIPS
+35076,WLP / WFLP
+35077,PAIS
+35078,ICSOFT (Selected Papers)
+35079,OJSW
+35080,Advances in Feature Selection for Data and Pattern Recognition
+35081,Feature Selection for Data and Pattern Recognition
+35082,Genetic Programming and Evolvable Machines
+35083,Attribute-based Credentials for Trust
+35084,VIPERC@IRCDL
+35085,IJEBM
+35086,SMARTGREENS/VEHITS (Selected Papers)
+35087,LPKM
+35088,CSOC (1)
+35089,CSOC (2)
+35090,New Trends in Intelligent Information and Database Systems
+35091,MENACOMM
+35092,SERA (selected papers)
+35093,IJMNO
+35094,AVI*CH
+35095,XP
+35096,CSD@ICSE
+35097,DeSE
+35098,LION
+35099,RNDM@WMNC
+35100,EC-TEL (Doctoral Consortium)
+35101,CrossMMLA@LAK
+35102,VISLA@LAK
+35103,Machine Learning for Health Informatics
+35104,Configuration Workshop
+35105,mobileCH@Mobile HCI
+35106,IS Management
+35107,AI*AAL@AI*IA
+35108,ESSEM@AAMAS
+35109,DC@AI*IA
+35110,WINCOM
+35111,Next Frontier in Agent-Based Complex Automated Negotiation
+35112,SEEDA-CECNSM
+35113,IJBPSCM
+35114,ICT4AWE
+35115,ICT4AgeingWell (Selected Papers)
+35116,GenderIT
+35117,IPCC
+35118,IJIEI
+35119,BSB
+35120,EMO (2)
+35121,DeLFI WOrkshops
+35122,Classes of Directed Graphs
+35123,IJITCC
+35124,Intelligent Techniques in Engineering Management
+35125,ICTCC
+35126,AInF@IJCAI
+35127,CSNet
+35128,Lecture Notes in Geoinformation and Cartography
+35129,Int. J. Serious Games
+35130,CARE/MFSC@AAMAS
