@@ -1,1 +1,1 @@
-# UserPipes-internship
+Codes for the paper "[Guided Exploration of User Groups.](https://hal.archives-ouvertes.fr/hal-02972511/document)" by Mariia Seleznova, Behrooz Omidvar-Tehrani, Sihem Amer-Yahia, Eric Simon. *In Proceedings of the VLDB Endowment, Volume 13.* 2020.
